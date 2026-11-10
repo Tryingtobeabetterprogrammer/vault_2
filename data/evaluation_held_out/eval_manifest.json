@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0.0",
+  "dataset_role": "independent_held_out_evaluation",
+  "total_evaluation_records": 300,
+  "class_distribution": {
+    "valid": 100,
+    "invalid": 100,
+    "needs_review": 100
+  },
+  "training_isolation": {
+    "invalid_samples_in_training": 0,
+    "needs_review_samples_in_training": 0,
+    "evaluation_purpose": "Test Tiny Aya's ability to reject invalid records and abstain on ambiguous records without training leakage."
+  }
+}

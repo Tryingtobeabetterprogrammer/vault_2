@@ -1,0 +1,99 @@
+{
+  "benchmark_metadata": {
+    "total_fixtures": 8,
+    "total_training_candidates_audited": 720,
+    "precision": 1.0,
+    "recall": 1.0,
+    "tp": 2,
+    "tn": 6,
+    "fp": 0,
+    "fn": 0
+  },
+  "fixture_evaluations": [
+    {
+      "fixture": "correct_compliant",
+      "name": "Correct Compliant Explanation",
+      "expected_passed": true,
+      "predicted_passed": true,
+      "status": "passed",
+      "reason_codes": [],
+      "details": "Teacher text for EXP-0046 is 100% verified against synthetic truth ledger."
+    },
+    {
+      "fixture": "wrong_numerical_value",
+      "name": "Wrong Numerical Values",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "rejected",
+      "reason_codes": [
+        "TEACHER_NUMERICAL_MISMATCH"
+      ],
+      "details": "Teacher text rejected due to 1 discrepancies: ['TEACHER_NUMERICAL_MISMATCH']."
+    },
+    {
+      "fixture": "wrong_units",
+      "name": "Incompatible Units",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "rejected",
+      "reason_codes": [
+        "TEACHER_UNIT_MISMATCH"
+      ],
+      "details": "Teacher text rejected due to 2 discrepancies: ['TEACHER_UNIT_MISMATCH']."
+    },
+    {
+      "fixture": "equivalent_valid_units",
+      "name": "Equivalent Valid Units (Conversion Accepted)",
+      "expected_passed": true,
+      "predicted_passed": true,
+      "status": "passed",
+      "reason_codes": [],
+      "details": "Teacher text for EXP-0359 is 100% verified against synthetic truth ledger."
+    },
+    {
+      "fixture": "incorrect_date",
+      "name": "Incorrect Execution Date",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "rejected",
+      "reason_codes": [
+        "TEACHER_DATE_MISMATCH"
+      ],
+      "details": "Teacher text rejected due to 1 discrepancies: ['TEACHER_DATE_MISMATCH']."
+    },
+    {
+      "fixture": "missing_context",
+      "name": "Missing Context / Omitted Dimensions",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "rejected",
+      "reason_codes": [
+        "TEACHER_MISSING_CRITICAL_FIELD"
+      ],
+      "details": "Teacher text rejected due to 1 discrepancies: ['TEACHER_MISSING_CRITICAL_FIELD']."
+    },
+    {
+      "fixture": "unsupported_claim",
+      "name": "Unsupported Compliance Claim / Hallucinated Compliance",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "rejected",
+      "reason_codes": [
+        "TEACHER_VERDICT_MISMATCH",
+        "TEACHER_UNSUPPORTED_COMPLIANCE_CLAIM"
+      ],
+      "details": "Teacher text rejected due to 3 discrepancies: ['TEACHER_VERDICT_MISMATCH', 'TEACHER_UNSUPPORTED_COMPLIANCE_CLAIM']."
+    },
+    {
+      "fixture": "ambiguous_text",
+      "name": "Ambiguous / Truncated Text",
+      "expected_passed": false,
+      "predicted_passed": false,
+      "status": "needs_review",
+      "reason_codes": [
+        "TEACHER_MISSING_EXPERIMENT_ID"
+      ],
+      "details": "Teacher text lacks an identifiable experiment ID (EXP-XXXX)."
+    }
+  ]
+}

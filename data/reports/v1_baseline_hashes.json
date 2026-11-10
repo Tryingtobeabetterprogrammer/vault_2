@@ -1,0 +1,52 @@
+{
+  "manifest_version": "1.0",
+  "generated_at": "2026-11-06T10:38:51Z",
+  "description": "Cryptographic baseline manifest of all VAULT V1 data, configuration, ledger, and handover reports. These hashes must remain 100% invariant throughout VAULT V2 development.",
+  "files": {
+    "config/simulator_config.json": {
+      "size_bytes": 316,
+      "sha256": "612dc982dd3cb90b3f87727d50c27c999fc67404c5d3cacabbd18dd0f155880b"
+    },
+    "data/raw/sops_v1.jsonl": {
+      "size_bytes": 10498,
+      "sha256": "0b7f1b4e78fd67d74c49d73e9f8e8da8d0eb6677cf9544b3bcb48cf7622a16d4"
+    },
+    "data/raw/instruments_v1.jsonl": {
+      "size_bytes": 3974,
+      "sha256": "73a52112b2def7cb80460da172e2ac675d980da400fe93bc2692c60576727f20"
+    },
+    "data/raw/lots_v1.jsonl": {
+      "size_bytes": 5166,
+      "sha256": "5ef2125c3d34b1cdad7ecefcb14048500cbbfc27ac1ee46fa36f968ecbd01e9a"
+    },
+    "data/raw/samples_v1.jsonl": {
+      "size_bytes": 19675,
+      "sha256": "b7e47a5aabb1c4675f9f133102c4579466165c1e0aa379e15c023f6350a15dd5"
+    },
+    "data/raw/experiments_v1.jsonl": {
+      "size_bytes": 324430,
+      "sha256": "cb39e64076d5fe6f39e3e2d4ac08ad2c49cdf49b633130800e62dc0de517ca1a"
+    },
+    "data/raw/runs_v1.csv": {
+      "size_bytes": 115760,
+      "sha256": "d154aed6e71bfd75957bd4cd943c7b18d99159925b3336f62de5327f9c9e93dd"
+    },
+    "data/raw/metadata.json": {
+      "size_bytes": 1459,
+      "sha256": "106515c09e91cded579d5a891aa2275aa043d8131406c36bd398c08ad2b283b1"
+    },
+    "data/ground_truth/ground_truth_ledger.jsonl": {
+      "size_bytes": 2333454,
+      "sha256": "c5ef546231ff56ae068c82bbb10a7f4bc827ab1eac71bc4d04f3c24f516e500e"
+    },
+    "data/reports/ground_truth_summary.json": {
+      "size_bytes": 1721,
+      "sha256": "43d1fef3b6412396d77ca969186cb265557b943150064b0b1f02ebc0ea4d197b"
+    },
+    "data/reports/vijay_handover_report.json": {
+      "size_bytes": 9273,
+      "sha256": "8163eeff31b5e0285064d16d8230345fceb68dbcf934a9a29d2db33202366a48"
+    }
+  }
+}
+

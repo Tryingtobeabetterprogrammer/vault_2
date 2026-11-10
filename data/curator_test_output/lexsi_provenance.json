@@ -1,0 +1,28 @@
+{
+  "schema": "lexsi.provenance/1",
+  "library": "curatorkit",
+  "version": "0.1.21",
+  "git_sha": null,
+  "created_at": "2026-11-09T08:27:08Z",
+  "base_model": null,
+  "method": "curate",
+  "inputs": [
+    {
+      "kind": "dataset",
+      "ref": "data\\curator_test_input\\sample_alpaca.jsonl",
+      "config": null,
+      "provenance": null
+    }
+  ],
+  "params": {
+    "generator_model": null,
+    "judge_model": null,
+    "grpo_scoring_model": null,
+    "export_formats": [
+      "alpaca",
+      "messages"
+    ],
+    "output_split": null,
+    "pipeline_config_hash": "126eedf94c890c1e"
+  }
+}

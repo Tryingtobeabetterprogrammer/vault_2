@@ -1,0 +1,113 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://scintest.vault.internal/contracts/record.schema.json",
+  "title": "ScintestRawExperimentRecord",
+  "description": "Schema for raw laboratory experiment records ingested by VAULT.",
+  "type": "object",
+  "required": [
+    "record_id",
+    "run_date",
+    "sample_id",
+    "clause_id",
+    "sop_id",
+    "instrument_id",
+    "lot_id",
+    "operator_id",
+    "measured_value",
+    "measurement_unit",
+    "collected_at",
+    "analyzed_at"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "description": "Unique experiment record identifier (e.g. EXP-0001)."
+    },
+    "run_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Execution date in YYYY-MM-DD format."
+    },
+    "sample_id": {
+      "type": "string",
+      "description": "Laboratory sample identifier."
+    },
+    "clause_id": {
+      "type": "string",
+      "description": "Clause identifier referencing the governing SOP requirement."
+    },
+    "sop_id": {
+      "type": "string",
+      "description": "Standard Operating Procedure identifier."
+    },
+    "sop_version": {
+      "type": ["string", "null"],
+      "description": "Explicit SOP version if recorded by analyst."
+    },
+    "instrument_id": {
+      "type": "string",
+      "description": "Instrument identifier used for analytical measurement."
+    },
+    "lot_id": {
+      "type": "string",
+      "description": "Reagent or consumable lot identifier."
+    },
+    "operator_id": {
+      "type": "string",
+      "description": "Analyst / operator identifier."
+    },
+    "measured_value": {
+      "type": ["number", "string"],
+      "description": "Numeric measurement reported by the instrument or analyst."
+    },
+    "measurement_unit": {
+      "type": "string",
+      "description": "Reported unit of measurement (e.g. mg/L, ug/L, CFU/g, EU/mL)."
+    },
+    "measurement_uncertainty": {
+      "type": ["number", "string", "null"],
+      "description": "Expanded measurement uncertainty margin (k=2, 95% confidence)."
+    },
+    "collected_at": {
+      "type": "string",
+      "description": "Sample collection timestamp (ISO 8601, timezone-aware or with site timezone)."
+    },
+    "analyzed_at": {
+      "type": "string",
+      "description": "Sample analysis timestamp (ISO 8601, timezone-aware or with site timezone)."
+    },
+    "max_holding_hours": {
+      "type": ["number", "null"],
+      "description": "Maximum allowable holding time in hours between collection and analysis."
+    },
+    "parameter": {
+      "type": "string",
+      "description": "Analytical measurand parameter name."
+    },
+    "sample_matrix": {
+      "type": "string",
+      "description": "Matrix type (e.g., Surface Water, Drinking Water, Wastewater, Soil)."
+    },
+    "site_id": {
+      "type": "string",
+      "description": "Testing laboratory facility identifier."
+    },
+    "site_timezone": {
+      "type": "string",
+      "description": "Facility IANA timezone (e.g. America/New_York, UTC)."
+    },
+    "method_id": {
+      "type": ["string", "null"],
+      "description": "Specific analytical method identifier if documented (standard or alternative)."
+    },
+    "source_hash": {
+      "type": "string",
+      "description": "SHA-256 hash of the original raw record payload."
+    },
+    "original_verdict": {
+      "type": ["string", "null"],
+      "description": "Analyst's or instrument's originally claimed verdict if present (PASS, FAIL)."
+    }
+  },
+  "additionalProperties": true
+}

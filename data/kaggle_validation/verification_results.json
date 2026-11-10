@@ -1,0 +1,634 @@
+{
+  "metadata": {
+    "dataset_name": "Air Quality Data in India (2015-2020)",
+    "source_file": "city_day.csv",
+    "total_records_evaluated": 29531,
+    "evaluation_timestamp_utc": "2026-11-09T13:21:22Z",
+    "evaluation_duration_seconds": 1.06
+  },
+  "status_distribution": {
+    "needs_review": 28108,
+    "flagged": 1423
+  },
+  "verdict_distribution": {
+    "unverified": 28108,
+    "invalid": 1423
+  },
+  "issue_frequencies": {
+    "MISSING_AQI_EVIDENCE": 4681,
+    "MISSING_LABORATORY_CALIBRATION_EVIDENCE": 28108,
+    "MISSING_SOP_GOVERNANCE_EVIDENCE": 28108,
+    "MISSING_MEASUREMENT_UNCERTAINTY": 28108,
+    "INSUFFICIENT_POLLUTANT_DATA": 1423
+  },
+  "cities_evaluated": 26,
+  "sample_flagged_records": [
+    {
+      "record_id": "KAG-CITY-AHM-2015-02-26-00057",
+      "city": "Ahmedabad",
+      "date": "2015-02-26",
+      "issues": [
+        "INSUFFICIENT_POLLUTANT_DATA",
+        "MISSING_AQI_EVIDENCE"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-02-26 is within valid study window."
+        },
+        {
+          "check": "pollutant_completeness",
+          "status": "fail",
+          "details": "Zero valid pollutant concentration measurements reported."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-02-26",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "",
+        "NO2": "",
+        "NOx": "",
+        "NH3": "",
+        "CO": "",
+        "SO2": "",
+        "O3": "",
+        "Benzene": "",
+        "Toluene": "",
+        "Xylene": "",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-02-27-00058",
+      "city": "Ahmedabad",
+      "date": "2015-02-27",
+      "issues": [
+        "INSUFFICIENT_POLLUTANT_DATA",
+        "MISSING_AQI_EVIDENCE"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-02-27 is within valid study window."
+        },
+        {
+          "check": "pollutant_completeness",
+          "status": "fail",
+          "details": "Zero valid pollutant concentration measurements reported."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-02-27",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "",
+        "NO2": "",
+        "NOx": "",
+        "NH3": "",
+        "CO": "",
+        "SO2": "",
+        "O3": "",
+        "Benzene": "",
+        "Toluene": "",
+        "Xylene": "",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-02-28-00059",
+      "city": "Ahmedabad",
+      "date": "2015-02-28",
+      "issues": [
+        "INSUFFICIENT_POLLUTANT_DATA",
+        "MISSING_AQI_EVIDENCE"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-02-28 is within valid study window."
+        },
+        {
+          "check": "pollutant_completeness",
+          "status": "fail",
+          "details": "Zero valid pollutant concentration measurements reported."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-02-28",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "",
+        "NO2": "",
+        "NOx": "",
+        "NH3": "",
+        "CO": "",
+        "SO2": "",
+        "O3": "",
+        "Benzene": "",
+        "Toluene": "",
+        "Xylene": "",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-03-06-00065",
+      "city": "Ahmedabad",
+      "date": "2015-03-06",
+      "issues": [
+        "INSUFFICIENT_POLLUTANT_DATA",
+        "MISSING_AQI_EVIDENCE"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-03-06 is within valid study window."
+        },
+        {
+          "check": "pollutant_completeness",
+          "status": "fail",
+          "details": "Zero valid pollutant concentration measurements reported."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-03-06",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "",
+        "NO2": "",
+        "NOx": "",
+        "NH3": "",
+        "CO": "",
+        "SO2": "",
+        "O3": "",
+        "Benzene": "",
+        "Toluene": "",
+        "Xylene": "",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-09-20-00263",
+      "city": "Ahmedabad",
+      "date": "2015-09-20",
+      "issues": [
+        "INSUFFICIENT_POLLUTANT_DATA",
+        "MISSING_AQI_EVIDENCE"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-09-20 is within valid study window."
+        },
+        {
+          "check": "pollutant_completeness",
+          "status": "fail",
+          "details": "Zero valid pollutant concentration measurements reported."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-09-20",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "",
+        "NO2": "",
+        "NOx": "",
+        "NH3": "",
+        "CO": "",
+        "SO2": "",
+        "O3": "",
+        "Benzene": "",
+        "Toluene": "",
+        "Xylene": "",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    }
+  ],
+  "sample_needs_review_records": [
+    {
+      "record_id": "KAG-CITY-AHM-2015-01-01-00001",
+      "city": "Ahmedabad",
+      "date": "2015-01-01",
+      "issues": [
+        "MISSING_AQI_EVIDENCE",
+        "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+        "MISSING_SOP_GOVERNANCE_EVIDENCE",
+        "MISSING_MEASUREMENT_UNCERTAINTY"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-01-01 is within valid study window."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-01-01",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "0.92",
+        "NO2": "18.22",
+        "NOx": "17.15",
+        "NH3": "",
+        "CO": "0.92",
+        "SO2": "27.64",
+        "O3": "133.36",
+        "Benzene": "0.0",
+        "Toluene": "0.02",
+        "Xylene": "0.0",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-01-02-00002",
+      "city": "Ahmedabad",
+      "date": "2015-01-02",
+      "issues": [
+        "MISSING_AQI_EVIDENCE",
+        "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+        "MISSING_SOP_GOVERNANCE_EVIDENCE",
+        "MISSING_MEASUREMENT_UNCERTAINTY"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-01-02 is within valid study window."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-01-02",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "0.97",
+        "NO2": "15.69",
+        "NOx": "16.46",
+        "NH3": "",
+        "CO": "0.97",
+        "SO2": "24.55",
+        "O3": "34.06",
+        "Benzene": "3.68",
+        "Toluene": "5.5",
+        "Xylene": "3.77",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-01-03-00003",
+      "city": "Ahmedabad",
+      "date": "2015-01-03",
+      "issues": [
+        "MISSING_AQI_EVIDENCE",
+        "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+        "MISSING_SOP_GOVERNANCE_EVIDENCE",
+        "MISSING_MEASUREMENT_UNCERTAINTY"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-01-03 is within valid study window."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-01-03",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "17.4",
+        "NO2": "19.3",
+        "NOx": "29.7",
+        "NH3": "",
+        "CO": "17.4",
+        "SO2": "29.07",
+        "O3": "30.7",
+        "Benzene": "6.8",
+        "Toluene": "16.4",
+        "Xylene": "2.25",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-01-04-00004",
+      "city": "Ahmedabad",
+      "date": "2015-01-04",
+      "issues": [
+        "MISSING_AQI_EVIDENCE",
+        "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+        "MISSING_SOP_GOVERNANCE_EVIDENCE",
+        "MISSING_MEASUREMENT_UNCERTAINTY"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-01-04 is within valid study window."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-01-04",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "1.7",
+        "NO2": "18.48",
+        "NOx": "17.97",
+        "NH3": "",
+        "CO": "1.7",
+        "SO2": "18.59",
+        "O3": "36.08",
+        "Benzene": "4.43",
+        "Toluene": "10.14",
+        "Xylene": "1.0",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    },
+    {
+      "record_id": "KAG-CITY-AHM-2015-01-05-00005",
+      "city": "Ahmedabad",
+      "date": "2015-01-05",
+      "issues": [
+        "MISSING_AQI_EVIDENCE",
+        "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+        "MISSING_SOP_GOVERNANCE_EVIDENCE",
+        "MISSING_MEASUREMENT_UNCERTAINTY"
+      ],
+      "evidence": [
+        {
+          "check": "date_plausibility",
+          "status": "pass",
+          "details": "Date 2015-01-05 is within valid study window."
+        },
+        {
+          "check": "aqi_presence",
+          "status": "needs_review",
+          "details": "AQI and AQI Bucket are both absent."
+        },
+        {
+          "check": "laboratory_calibration_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_LABORATORY_CALIBRATION_EVIDENCE",
+          "details": "Absence of certified laboratory calibration window or sensor maintenance ledger."
+        },
+        {
+          "check": "sop_governance_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_SOP_GOVERNANCE_EVIDENCE",
+          "details": "Absence of formalized standard operating procedure (SOP) clause or accreditation standard."
+        },
+        {
+          "check": "measurement_uncertainty_evidence",
+          "status": "needs_review",
+          "reason": "MISSING_MEASUREMENT_UNCERTAINTY",
+          "details": "Absence of expanded measurement uncertainty (k=2, 95% confidence margin)."
+        }
+      ],
+      "raw_values": {
+        "City": "Ahmedabad",
+        "Date": "2015-01-05",
+        "PM2.5": "",
+        "PM10": "",
+        "NO": "22.1",
+        "NO2": "21.42",
+        "NOx": "37.76",
+        "NH3": "",
+        "CO": "22.1",
+        "SO2": "39.33",
+        "O3": "39.31",
+        "Benzene": "7.01",
+        "Toluene": "18.89",
+        "Xylene": "2.78",
+        "AQI": "",
+        "AQI_Bucket": ""
+      }
+    }
+  ]
+}

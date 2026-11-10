@@ -1,0 +1,2 @@
+{"instruction": "Verify analytical measurement for Dissolved Cadmium.", "input": "Experiment EXP-0001: run_date=2024-09-18, value=0.0052 mg/L, uncertainty=0.0012 mg/L, clause=CLAUSE-014.", "output": "Assessment: Flagged for expired reagent lot LOT-001 (expired 2024-09-08)."}
+{"instruction": "Verify analytical measurement for Chloride Concentration.", "input": "Experiment EXP-0002: run_date=2025-01-15, value=25.0 mg/L, uncertainty=0.5 mg/L, clause=CLAUSE-005.", "output": "Assessment: Checks passed. Measurement strictly inside specification limits [1.0, 200.0] mg/L."}

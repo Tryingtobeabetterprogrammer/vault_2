@@ -1,0 +1,123 @@
+{
+  "version": "2.0.0",
+  "seed": 42,
+  "description": "VAULT V2 Laboratory Data Simulator & Benchmark Configuration",
+
+  "dataset_size": {
+    "sop_clauses": 42,
+    "instruments": 30,
+    "lots": 50,
+    "samples": 200,
+    "experiments": 1200
+  },
+
+  "planning_scenario_distribution": {
+    "_comment": "These proportions guide the generative scenario distribution during synthesis. Final verdicts are NEVER forced or overridden; they are computed strictly by deterministic rule evaluation.",
+    "target_valid_proportion": 0.60,
+    "target_invalid_proportion": 0.20,
+    "target_review_proportion": 0.20,
+    "scenario_counts": {
+      "nominal_valid": 520,
+      "unit_conversion_valid": 120,
+      "timezone_valid": 80,
+      "calibration_expiry_invalid": 45,
+      "lot_expiry_invalid": 45,
+      "holding_time_exceeded_invalid": 45,
+      "measurement_out_of_range_invalid": 45,
+      "timestamp_inversion_invalid": 25,
+      "compound_dual_failure_invalid": 35,
+      "sop_overlap_conflict_review": 40,
+      "measurement_boundary_uncertainty_review": 70,
+      "missing_evidence_review": 55,
+      "broken_foreign_key_review": 35,
+      "compound_failure_with_review": 40
+    }
+  },
+
+  "measurement_units": {
+    "canonical_units": {
+      "mass_concentration": "mg/L",
+      "conductivity": "µS/cm",
+      "ph": "pH",
+      "turbidity": "NTU",
+      "dimensionless_ratio": "%",
+      "bioburden": "CFU/g",
+      "particulate_count": "particles/mL",
+      "endotoxin": "EU/mL"
+    },
+    "supported_concentration_conversions": {
+      "g/L": { "factor_to_canonical": "1000", "description": "1 g/L = 1000 mg/L" },
+      "mg/L": { "factor_to_canonical": "1", "description": "1 mg/L = 1 mg/L" },
+      "µg/L": { "factor_to_canonical": "0.001", "description": "1000 µg/L = 1 mg/L" }
+    },
+    "supported_conductivity_conversions": {
+      "µS/cm": { "factor_to_canonical": "1", "description": "1 µS/cm = 1 µS/cm" },
+      "mS/cm": { "factor_to_canonical": "1000", "description": "1 mS/cm = 1000 µS/cm" }
+    },
+    "incompatible_dimensions": [
+      ["mass_concentration", "ph"],
+      ["mass_concentration", "turbidity"],
+      ["mass_concentration", "dimensionless_ratio"],
+      ["mass_concentration", "conductivity"],
+      ["conductivity", "ph"]
+    ]
+  },
+
+  "site_timezones": {
+    "_comment": "Explicit IANA timezone mapping for multi-facility operations. Naive timestamps without timezone offset must resolve against this catalog or be flagged as AMBIGUOUS_TIMEZONE.",
+    "sites": {
+      "SITE-BOS": {
+        "site_name": "Boston Central QC Facility",
+        "timezone": "America/New_York",
+        "standard_offset": "-05:00",
+        "daylight_offset": "-04:00"
+      },
+      "SITE-BER": {
+        "site_name": "Berlin Analytical Testing Center",
+        "timezone": "Europe/Berlin",
+        "standard_offset": "+01:00",
+        "daylight_offset": "+02:00"
+      },
+      "SITE-SFO": {
+        "site_name": "San Francisco Research Lab",
+        "timezone": "America/Los_Angeles",
+        "standard_offset": "-08:00",
+        "daylight_offset": "-07:00"
+      },
+      "SITE-LON": {
+        "site_name": "London Environmental Lab",
+        "timezone": "Europe/London",
+        "standard_offset": "+00:00",
+        "daylight_offset": "+01:00"
+      }
+    },
+    "disallow_silent_utc_assumption": true
+  },
+
+  "sop_transition_policy": {
+    "_comment": "Laboratory transition and grace period policy for overlapping SOP versions.",
+    "allow_explicit_grandfathered_version_until_superseded": true,
+    "require_conflict_on_omitted_version_with_divergent_specs": true,
+    "require_missing_version_on_omitted_version_with_identical_specs": true,
+    "sop_003_overlap_window": {
+      "sop_id": "SOP-003",
+      "v1_superseded_date": "2025-05-31",
+      "v2_effective_date": "2025-05-15",
+      "overlap_start": "2025-05-15",
+      "overlap_end": "2025-05-31",
+      "target_overlap_experiments": 40
+    }
+  },
+
+  "foreign_key_policy": {
+    "missing_id_outcome": "needs_review",
+    "broken_foreign_key_outcome": "needs_review",
+    "broken_foreign_key_reason_code": "FOREIGN_KEY_NOT_FOUND"
+  },
+
+  "verdict_precedence_policy": {
+    "_comment": "Strict fail-safe doctrine: any needs_review produces an overall NEEDS_REVIEW verdict (abstain=true) while preserving all definite failure reason codes.",
+    "priority": ["NEEDS_REVIEW", "INVALID", "VALID"]
+  }
+}
+

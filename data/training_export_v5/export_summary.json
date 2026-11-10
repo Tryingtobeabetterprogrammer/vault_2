@@ -1,0 +1,52 @@
+{
+  "export_metadata": {
+    "dataset_version": "5.0.0",
+    "source_records_total": 1200,
+    "accepted_training_candidates": 720,
+    "quarantined_records": 480,
+    "curatorkit_passed": 720
+  },
+  "breakdown_by_status": {
+    "checks_passed": 720,
+    "flagged": 228,
+    "needs_review": 252
+  },
+  "breakdown_by_sop": {
+    "SOP-001": 166,
+    "SOP-003": 207,
+    "SOP-005": 70,
+    "SOP-006": 65,
+    "SOP-004": 62,
+    "SOP-007": 44,
+    "SOP-002": 74,
+    "SOP-008": 32
+  },
+  "breakdown_by_parameter": {
+    "Nominal valid": 520,
+    "Unit conversion valid": 120,
+    "Timezone valid": 80
+  },
+  "quarantine_reasons_breakdown": {
+    "flagged: ['CALIBRATION_NOT_YET_VALID', 'LOT_EXPIRED']": 8,
+    "flagged: ['LOT_EXPIRED']": 37,
+    "needs_review: ['CALIBRATION_EXPIRED', 'UNCERTAINTY_CROSSES_BOUNDARY']": 40,
+    "flagged: ['CALIBRATION_EXPIRED']": 45,
+    "flagged: ['CALIBRATION_EXPIRED', 'HOLDING_TIME_EXCEEDED']": 35,
+    "flagged: ['HOLDING_TIME_EXCEEDED']": 45,
+    "flagged: ['MEASUREMENT_OUT_OF_RANGE']": 33,
+    "needs_review: ['UNCERTAINTY_CROSSES_BOUNDARY']": 82,
+    "needs_review: ['SOP_VERSION_CONFLICT']": 40,
+    "flagged: ['INVALID_TIMESTAMP_ORDER']": 25,
+    "needs_review: ['MISSING_INSTRUMENT_EVIDENCE']": 14,
+    "needs_review: ['MISSING_REAGENT_EVIDENCE']": 14,
+    "needs_review: ['MISSING_SAMPLE_EVIDENCE']": 14,
+    "needs_review: ['MISSING_SOP_EVIDENCE']": 13,
+    "needs_review: ['FOREIGN_KEY_NOT_FOUND']": 35
+  },
+  "sha256_checksums": {
+    "train_candidates.jsonl": "b7c20e71421ab47d17908a9b8d661414907b72db3070db10bcd57cb93858af48",
+    "accepted_manifest.json": "452382f5bd3eb3eedd899fb3eea712da974ce5690309d4c0a05aae07712716b3",
+    "quarantine.jsonl": "9fa3102e8b4bdb5a65ab41d44f38eb89811352b3d6dfd8ee6b8b32925e687f4f",
+    "dataset_card.md": "a38bcb7977cb7dac8d76741395359aeb345ecfe2407ec31d15983848a8fedb10"
+  }
+}

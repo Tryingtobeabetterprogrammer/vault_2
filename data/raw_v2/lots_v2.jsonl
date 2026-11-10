@@ -1,0 +1,50 @@
+{"lot_id": "LOT-001", "reagent_name": "HPLC Mobile Phase Acetonitrile", "manufacture_date": "2024-01-07", "expiry_date": "2024-09-08"}
+{"lot_id": "LOT-002", "reagent_name": "HPLC Mobile Phase Methanol", "manufacture_date": "2024-01-13", "expiry_date": "2024-09-19"}
+{"lot_id": "LOT-003", "reagent_name": "pH Buffer 4.01", "manufacture_date": "2024-01-19", "expiry_date": "2024-09-30"}
+{"lot_id": "LOT-004", "reagent_name": "pH Buffer 7.00", "manufacture_date": "2024-01-25", "expiry_date": "2024-10-11"}
+{"lot_id": "LOT-005", "reagent_name": "pH Buffer 10.01", "manufacture_date": "2024-01-01", "expiry_date": "2024-09-22"}
+{"lot_id": "LOT-006", "reagent_name": "Lead Calibration Standard", "manufacture_date": "2024-01-07", "expiry_date": "2024-10-03"}
+{"lot_id": "LOT-007", "reagent_name": "Cadmium Calibration Standard", "manufacture_date": "2024-01-13", "expiry_date": "2024-10-14"}
+{"lot_id": "LOT-008", "reagent_name": "Arsenic Calibration Standard", "manufacture_date": "2024-01-19", "expiry_date": "2024-10-25"}
+{"lot_id": "LOT-009", "reagent_name": "Chromium Calibration Standard", "manufacture_date": "2024-01-25", "expiry_date": "2024-11-05"}
+{"lot_id": "LOT-010", "reagent_name": "Copper Calibration Standard", "manufacture_date": "2024-01-01", "expiry_date": "2024-10-17"}
+{"lot_id": "LOT-011", "reagent_name": "Zinc Calibration Standard", "manufacture_date": "2024-01-07", "expiry_date": "2024-10-28"}
+{"lot_id": "LOT-012", "reagent_name": "Conductivity Standard 1413 uS/cm", "manufacture_date": "2024-01-13", "expiry_date": "2024-09-09"}
+{"lot_id": "LOT-013", "reagent_name": "Silver Nitrate Titrant 0.1M", "manufacture_date": "2024-01-19", "expiry_date": "2024-09-20"}
+{"lot_id": "LOT-014", "reagent_name": "Karl Fischer Titrant 5mg/mL", "manufacture_date": "2024-01-25", "expiry_date": "2024-10-01"}
+{"lot_id": "LOT-015", "reagent_name": "Nitrate Standard 1000 mg/L", "manufacture_date": "2024-01-01", "expiry_date": "2024-09-12"}
+{"lot_id": "LOT-016", "reagent_name": "Fluoride Standard 100 mg/L", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-10"}
+{"lot_id": "LOT-017", "reagent_name": "Formazin Turbidity Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-20"}
+{"lot_id": "LOT-018", "reagent_name": "Agar Growth Medium", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-01"}
+{"lot_id": "LOT-019", "reagent_name": "Sterile Diluent", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-11"}
+{"lot_id": "LOT-020", "reagent_name": "LAL Reagent", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-21"}
+{"lot_id": "LOT-021", "reagent_name": "Particle Count Reference Suspension", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-01"}
+{"lot_id": "LOT-022", "reagent_name": "Dissolution Medium Degassed", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-11"}
+{"lot_id": "LOT-023", "reagent_name": "Ethanol Internal Standard Solution", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-21"}
+{"lot_id": "LOT-024", "reagent_name": "HPLC Mobile Phase Acetonitrile", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-31"}
+{"lot_id": "LOT-025", "reagent_name": "HPLC Mobile Phase Methanol", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-10"}
+{"lot_id": "LOT-026", "reagent_name": "pH Buffer 4.01", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-20"}
+{"lot_id": "LOT-027", "reagent_name": "pH Buffer 7.00", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-01"}
+{"lot_id": "LOT-028", "reagent_name": "pH Buffer 10.01", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-11"}
+{"lot_id": "LOT-029", "reagent_name": "Lead Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-21"}
+{"lot_id": "LOT-030", "reagent_name": "Cadmium Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-01"}
+{"lot_id": "LOT-031", "reagent_name": "Arsenic Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-11"}
+{"lot_id": "LOT-032", "reagent_name": "Chromium Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-21"}
+{"lot_id": "LOT-033", "reagent_name": "Copper Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-31"}
+{"lot_id": "LOT-034", "reagent_name": "Zinc Calibration Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-10"}
+{"lot_id": "LOT-035", "reagent_name": "Conductivity Standard 1413 uS/cm", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-20"}
+{"lot_id": "LOT-036", "reagent_name": "Silver Nitrate Titrant 0.1M", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-01"}
+{"lot_id": "LOT-037", "reagent_name": "Karl Fischer Titrant 5mg/mL", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-11"}
+{"lot_id": "LOT-038", "reagent_name": "Nitrate Standard 1000 mg/L", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-21"}
+{"lot_id": "LOT-039", "reagent_name": "Fluoride Standard 100 mg/L", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-01"}
+{"lot_id": "LOT-040", "reagent_name": "Formazin Turbidity Standard", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-11"}
+{"lot_id": "LOT-041", "reagent_name": "Agar Growth Medium", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-21"}
+{"lot_id": "LOT-042", "reagent_name": "Sterile Diluent", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-31"}
+{"lot_id": "LOT-043", "reagent_name": "LAL Reagent", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-10"}
+{"lot_id": "LOT-044", "reagent_name": "Particle Count Reference Suspension", "manufacture_date": "2025-01-02", "expiry_date": "2026-08-20"}
+{"lot_id": "LOT-045", "reagent_name": "Dissolution Medium Degassed", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-01"}
+{"lot_id": "LOT-046", "reagent_name": "Ethanol Internal Standard Solution", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-11"}
+{"lot_id": "LOT-047", "reagent_name": "HPLC Mobile Phase Acetonitrile", "manufacture_date": "2025-01-02", "expiry_date": "2026-06-21"}
+{"lot_id": "LOT-048", "reagent_name": "HPLC Mobile Phase Methanol", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-01"}
+{"lot_id": "LOT-049", "reagent_name": "pH Buffer 4.01", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-11"}
+{"lot_id": "LOT-050", "reagent_name": "pH Buffer 7.00", "manufacture_date": "2025-01-02", "expiry_date": "2026-07-21"}

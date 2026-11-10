@@ -1,0 +1,140 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2026-11-06T05:41:54.910511+00:00",
+  "total_experiments_processed": 1200,
+  "verdict_distribution": {
+    "valid": 239,
+    "invalid": 618,
+    "needs_review": 343
+  },
+  "verdict_percentages": {
+    "valid_pct": 19.92,
+    "invalid_pct": 51.5,
+    "needs_review_pct": 28.58
+  },
+  "abstain_count": 343,
+  "rule_level_outcomes": {
+    "sop": {
+      "pass": 762,
+      "fail": 390,
+      "needs_review": 48
+    },
+    "calibration": {
+      "pass": 828,
+      "fail": 349,
+      "needs_review": 23
+    },
+    "lot": {
+      "pass": 821,
+      "fail": 356,
+      "needs_review": 23
+    },
+    "holding_time": {
+      "pass": 1066,
+      "fail": 125,
+      "needs_review": 9
+    },
+    "measurement": {
+      "pass": 896,
+      "fail": 43,
+      "needs_review": 261
+    }
+  },
+  "reason_code_frequencies": {
+    "CALIBRATION_NOT_YET_VALID": 21,
+    "LOT_EXPIRED": 356,
+    "SOP_VERSION_INVALID": 390,
+    "UNSUPPORTED_UNIT": 206,
+    "CALIBRATION_EXPIRED": 328,
+    "HOLDING_TIME_EXCEEDED": 80,
+    "UNCERTAINTY_CROSSES_BOUNDARY": 47,
+    "MEASUREMENT_OUT_OF_RANGE": 43,
+    "INVALID_TIMESTAMP_ORDER": 45,
+    "SOP_VERSION_CONFLICT": 40,
+    "MISSING_INSTRUMENT_EVIDENCE": 14,
+    "MISSING_REAGENT_EVIDENCE": 14,
+    "FOREIGN_KEY_NOT_FOUND": 35
+  },
+  "scenario_family_verdict_distribution": {
+    "Lot expiry invalid": {
+      "valid": 0,
+      "invalid": 35,
+      "needs_review": 10
+    },
+    "Nominal valid": {
+      "valid": 159,
+      "invalid": 261,
+      "needs_review": 100
+    },
+    "Compound failure with review": {
+      "valid": 0,
+      "invalid": 22,
+      "needs_review": 18
+    },
+    "Calibration expiry invalid": {
+      "valid": 0,
+      "invalid": 35,
+      "needs_review": 10
+    },
+    "Compound dual failure invalid": {
+      "valid": 0,
+      "invalid": 30,
+      "needs_review": 5
+    },
+    "Unit conversion valid": {
+      "valid": 34,
+      "invalid": 86,
+      "needs_review": 0
+    },
+    "Timezone valid": {
+      "valid": 21,
+      "invalid": 44,
+      "needs_review": 15
+    },
+    "Holding time exceeded invalid": {
+      "valid": 0,
+      "invalid": 35,
+      "needs_review": 10
+    },
+    "Measurement out of range invalid": {
+      "valid": 0,
+      "invalid": 27,
+      "needs_review": 18
+    },
+    "SOP overlap conflict review": {
+      "valid": 0,
+      "invalid": 0,
+      "needs_review": 40
+    },
+    "Timestamp inversion invalid": {
+      "valid": 0,
+      "invalid": 21,
+      "needs_review": 4
+    },
+    "Measurement boundary uncertainty review": {
+      "valid": 14,
+      "invalid": 11,
+      "needs_review": 45
+    },
+    "Missing evidence review": {
+      "valid": 11,
+      "invalid": 11,
+      "needs_review": 33
+    },
+    "Broken foreign key review": {
+      "valid": 0,
+      "invalid": 0,
+      "needs_review": 35
+    }
+  },
+  "compound_scenarios": {
+    "multi_failure_records": 310,
+    "multi_review_records": 21,
+    "coexisting_fail_and_review_records": 258
+  },
+  "data_integrity_metrics": {
+    "missing_evidence_reasons_count": 28,
+    "broken_foreign_key_reasons_count": 35,
+    "unprocessed_experiments": 0
+  }
+}

@@ -1,0 +1,26 @@
+{"instruction": "Evaluate analytical measurement for Turbidity Level.", "input": "Experiment EXP-1049: sop=SOP-001, val=1.73 NTU, run_date=2025-08-28.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Fluoride Content.", "input": "Experiment EXP-0267: sop=SOP-004, val=0.87 mg/L, run_date=2025-02-27.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Residual Solvents.", "input": "Experiment EXP-0090: sop=SOP-002, val=238.3 mg/L, run_date=2025-01-25.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Lead.", "input": "Experiment EXP-0455: sop=SOP-003, val=0.0183 mg/L, run_date=2025-04-18.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Particulate Matter (>= 10 um).", "input": "Experiment EXP-0418: sop=SOP-006, val=268.0 particles/mL, run_date=2025-04-10.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Heavy Metals (General).", "input": "Experiment EXP-0394: sop=SOP-008, val=12.6 mg/L, run_date=2025-04-04.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Sulfate Concentration.", "input": "Experiment EXP-0304: sop=SOP-001, val=134.4 mg/L, run_date=2025-03-08.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Chloride Concentration.", "input": "Experiment EXP-1144: sop=SOP-001, val=122.1 mg/L, run_date=2025-09-23.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Chromium.", "input": "Experiment EXP-0879: sop=SOP-003, val=0.021 mg/L, run_date=2025-07-01.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for pH Value.", "input": "Experiment EXP-0227: sop=SOP-001, val=7.26 pH, run_date=2025-02-19.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Nitrate Nitrogen.", "input": "Experiment EXP-0687: sop=SOP-004, val=20.05 mg/L, run_date=2025-05-26.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Endotoxin Concentration.", "input": "Experiment EXP-0105: sop=SOP-006, val=0.3 EU/mL, run_date=2025-01-28.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Total Dissolved Solids.", "input": "Experiment EXP-0103: sop=SOP-001, val=458.1 mg/L, run_date=2025-01-28.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Arsenic.", "input": "Experiment EXP-0233: sop=SOP-003, val=0.0077 mg/L, run_date=2025-02-20.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Yeast and Mold Count.", "input": "Experiment EXP-0404: sop=SOP-005, val=22.0 CFU/g, run_date=2025-04-07.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Cadmium.", "input": "Experiment EXP-0965: sop=SOP-003, val=0.0029 mg/L, run_date=2025-08-02.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Electrical Conductivity.", "input": "Experiment EXP-0096: sop=SOP-001, val=340.5 µS/cm, run_date=2025-01-27.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Copper.", "input": "Experiment EXP-0678: sop=SOP-003, val=0.61 mg/L, run_date=2025-05-25.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolved Zinc.", "input": "Experiment EXP-0737: sop=SOP-003, val=1.51 mg/L, run_date=2025-06-02.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Related Substances.", "input": "Experiment EXP-1193: sop=SOP-002, val=0.157 %, run_date=2025-10-07.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Assay Purity.", "input": "Experiment EXP-0386: sop=SOP-002, val=99.6 %, run_date=2025-04-03.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Moisture Content.", "input": "Experiment EXP-0134: sop=SOP-007, val=2.05 %, run_date=2025-02-03.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Ethanol Content.", "input": "Experiment EXP-0867: sop=SOP-005, val=51.18 %, run_date=2025-06-27.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Dissolution Rate (Q at 45 min).", "input": "Experiment EXP-0204: sop=SOP-007, val=81.9 %, run_date=2025-02-15.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Particulate Matter (>= 25 um).", "input": "Experiment CORR-EXP-0982-MISSIN: sop=SOP-006, val=29.0 particles/mL, run_date=2025-08-08.", "output": "Claimed verdict: PASS"}
+{"instruction": "Evaluate analytical measurement for Total Aerobic Microbial Count.", "input": "Experiment EXP-0250: sop=SOP-005, val=250.0 CFU/g, run_date=2025-02-24.", "output": "Claimed verdict: PASS"}

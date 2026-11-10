@@ -1,0 +1,105 @@
+{
+  "schema": "lexsi.provenance/1",
+  "library": "curatorkit",
+  "version": "0.1.21",
+  "git_sha": null,
+  "created_at": "2026-11-09T08:50:04Z",
+  "base_model": null,
+  "method": "curate",
+  "inputs": [
+    {
+      "kind": "dataset",
+      "ref": "C:\\VAULT\\data\\benchmark\\curator_out\\curator_input.jsonl",
+      "config": null,
+      "provenance": {
+        "schema": "lexsi.provenance/1",
+        "library": "curatorkit",
+        "version": "0.1.21",
+        "git_sha": null,
+        "created_at": "2026-11-09T08:35:43Z",
+        "base_model": null,
+        "method": "curate",
+        "inputs": [
+          {
+            "kind": "dataset",
+            "ref": "data\\benchmark\\curator_out\\curator_input.jsonl",
+            "config": null,
+            "provenance": {
+              "schema": "lexsi.provenance/1",
+              "library": "curatorkit",
+              "version": "0.1.21",
+              "git_sha": null,
+              "created_at": "2026-11-09T08:34:16Z",
+              "base_model": null,
+              "method": "curate",
+              "inputs": [
+                {
+                  "kind": "dataset",
+                  "ref": "data\\benchmark\\curator_out\\curator_input.jsonl",
+                  "config": null,
+                  "provenance": {
+                    "schema": "lexsi.provenance/1",
+                    "library": "curatorkit",
+                    "version": "0.1.21",
+                    "git_sha": null,
+                    "created_at": "2026-11-09T08:32:24Z",
+                    "base_model": null,
+                    "method": "curate",
+                    "inputs": [
+                      {
+                        "kind": "dataset",
+                        "ref": "data\\benchmark\\curator_out\\curator_input.jsonl",
+                        "config": null,
+                        "provenance": null
+                      }
+                    ],
+                    "params": {
+                      "generator_model": null,
+                      "judge_model": null,
+                      "grpo_scoring_model": null,
+                      "export_formats": [
+                        "alpaca"
+                      ],
+                      "output_split": null,
+                      "pipeline_config_hash": "0e5672a50a6c6e0b"
+                    }
+                  }
+                }
+              ],
+              "params": {
+                "generator_model": null,
+                "judge_model": null,
+                "grpo_scoring_model": null,
+                "export_formats": [
+                  "alpaca"
+                ],
+                "output_split": null,
+                "pipeline_config_hash": "0e5672a50a6c6e0b"
+              }
+            }
+          }
+        ],
+        "params": {
+          "generator_model": null,
+          "judge_model": null,
+          "grpo_scoring_model": null,
+          "export_formats": [
+            "alpaca"
+          ],
+          "output_split": null,
+          "pipeline_config_hash": "0e5672a50a6c6e0b"
+        }
+      }
+    }
+  ],
+  "params": {
+    "generator_model": null,
+    "judge_model": null,
+    "grpo_scoring_model": null,
+    "export_formats": [
+      "alpaca"
+    ],
+    "output_split": null,
+    "pipeline_config_hash": "7e3828d0f59fcc2f"
+  }
+}

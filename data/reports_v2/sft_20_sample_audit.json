@@ -1,0 +1,462 @@
+[
+  {
+    "sample_num": 1,
+    "experiment_id": "EXP-1099",
+    "raw_record": {
+      "experiment_id": "EXP-1099",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-017",
+      "parameter": "Dissolved Copper",
+      "measured_value": 0.45,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-09-10"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Copper.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-1099\nSOP: SOP-003 (Clause: CLAUSE-017)\nRun Date: 2025-09-10\nReported Measurement: 0.45 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-1099 under SOP-003: measured value 0.45 mg/L on 2025-09-10.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 2,
+    "experiment_id": "EXP-0212",
+    "raw_record": {
+      "experiment_id": "EXP-0212",
+      "sop_id": "SOP-004",
+      "clause_id": "CLAUSE-020",
+      "parameter": "Fluoride Content",
+      "measured_value": 0.8,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-02-16"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Fluoride Content.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0212\nSOP: SOP-004 (Clause: CLAUSE-020)\nRun Date: 2025-02-16\nReported Measurement: 0.8 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0212 under SOP-004: measured value 0.8 mg/L on 2025-02-16.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 3,
+    "experiment_id": "EXP-0062",
+    "raw_record": {
+      "experiment_id": "EXP-0062",
+      "sop_id": "SOP-001",
+      "clause_id": "CLAUSE-005",
+      "parameter": "Chloride Concentration",
+      "measured_value": 143.2,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-01-20"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Chloride Concentration.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0062\nSOP: SOP-001 (Clause: CLAUSE-005)\nRun Date: 2025-01-20\nReported Measurement: 143.2 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0062 under SOP-001: measured value 143.2 mg/L on 2025-01-20.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 4,
+    "experiment_id": "EXP-0400",
+    "raw_record": {
+      "experiment_id": "EXP-0400",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-013",
+      "parameter": "Dissolved Lead",
+      "measured_value": 0.0255,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-04-06"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Lead.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0400\nSOP: SOP-003 (Clause: CLAUSE-013)\nRun Date: 2025-04-06\nReported Measurement: 0.0255 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0400 under SOP-003: measured value 0.0255 mg/L on 2025-04-06.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 5,
+    "experiment_id": "EXP-0359",
+    "raw_record": {
+      "experiment_id": "EXP-0359",
+      "sop_id": "SOP-004",
+      "clause_id": "CLAUSE-020",
+      "parameter": "Fluoride Content",
+      "measured_value": 1325.79,
+      "measurement_unit": "\u00b5g/L",
+      "run_date": "2025-03-26"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Fluoride Content.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0359\nSOP: SOP-004 (Clause: CLAUSE-020)\nRun Date: 2025-03-26\nReported Measurement: 1325.79 \u00b5g/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0359 under SOP-004: measured value 1325.79 \u00b5g/L on 2025-03-26.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 6,
+    "experiment_id": "EXP-0345",
+    "raw_record": {
+      "experiment_id": "EXP-0345",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-016",
+      "parameter": "Dissolved Chromium",
+      "measured_value": 60.266,
+      "measurement_unit": "\u00b5g/L",
+      "run_date": "2025-03-20"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Chromium.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0345\nSOP: SOP-003 (Clause: CLAUSE-016)\nRun Date: 2025-03-20\nReported Measurement: 60.266 \u00b5g/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0345 under SOP-003: measured value 60.266 \u00b5g/L on 2025-03-20.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 7,
+    "experiment_id": "EXP-0239",
+    "raw_record": {
+      "experiment_id": "EXP-0239",
+      "sop_id": "SOP-006",
+      "clause_id": "CLAUSE-028",
+      "parameter": "Endotoxin Concentration",
+      "measured_value": 0.202,
+      "measurement_unit": "EU/mL",
+      "run_date": "2025-02-21"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Endotoxin Concentration.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0239\nSOP: SOP-006 (Clause: CLAUSE-028)\nRun Date: 2025-02-21\nReported Measurement: 0.202 EU/mL\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0239 under SOP-006: measured value 0.202 EU/mL on 2025-02-21.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 8,
+    "experiment_id": "EXP-0197",
+    "raw_record": {
+      "experiment_id": "EXP-0197",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-018",
+      "parameter": "Dissolved Zinc",
+      "measured_value": 2.57,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-02-13"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Zinc.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0197\nSOP: SOP-003 (Clause: CLAUSE-018)\nRun Date: 2025-02-13\nReported Measurement: 2.57 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0197 under SOP-003: measured value 2.57 mg/L on 2025-02-13.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 9,
+    "experiment_id": "EXP-1170",
+    "raw_record": {
+      "experiment_id": "EXP-1170",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-013",
+      "parameter": "Dissolved Lead",
+      "measured_value": 0.0136,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-09-29"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Lead.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-1170\nSOP: SOP-003 (Clause: CLAUSE-013)\nRun Date: 2025-09-29\nReported Measurement: 0.0136 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-1170 under SOP-003: measured value 0.0136 mg/L on 2025-09-29.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 10,
+    "experiment_id": "EXP-0872",
+    "raw_record": {
+      "experiment_id": "EXP-0872",
+      "sop_id": "SOP-002",
+      "clause_id": "CLAUSE-009",
+      "parameter": "Residual Solvents",
+      "measured_value": 207457.7,
+      "measurement_unit": "ug/L",
+      "run_date": "2025-06-28"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Residual Solvents.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0872\nSOP: SOP-002 (Clause: CLAUSE-009)\nRun Date: 2025-06-28\nReported Measurement: 207457.7 ug/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0872 under SOP-002: measured value 207457.7 ug/L on 2025-06-28.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 11,
+    "experiment_id": "EXP-0175",
+    "raw_record": {
+      "experiment_id": "EXP-0175",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-015",
+      "parameter": "Dissolved Arsenic",
+      "measured_value": 0.0093,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-02-09"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Arsenic.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0175\nSOP: SOP-003 (Clause: CLAUSE-015)\nRun Date: 2025-02-09\nReported Measurement: 0.0093 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0175 under SOP-003: measured value 0.0093 mg/L on 2025-02-09.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 12,
+    "experiment_id": "EXP-0933",
+    "raw_record": {
+      "experiment_id": "EXP-0933",
+      "sop_id": "SOP-001",
+      "clause_id": "CLAUSE-003",
+      "parameter": "Total Dissolved Solids",
+      "measured_value": 491.5,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-07-23"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Total Dissolved Solids.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0933\nSOP: SOP-001 (Clause: CLAUSE-003)\nRun Date: 2025-07-23\nReported Measurement: 491.5 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0933 under SOP-001: measured value 491.5 mg/L on 2025-07-23.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 13,
+    "experiment_id": "EXP-0646",
+    "raw_record": {
+      "experiment_id": "EXP-0646",
+      "sop_id": "SOP-007",
+      "clause_id": "CLAUSE-032",
+      "parameter": "Moisture Content",
+      "measured_value": 1.85,
+      "measurement_unit": "%",
+      "run_date": "2025-05-22"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Moisture Content.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0646\nSOP: SOP-007 (Clause: CLAUSE-032)\nRun Date: 2025-05-22\nReported Measurement: 1.85 %\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0646 under SOP-007: measured value 1.85 % on 2025-05-22.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 14,
+    "experiment_id": "EXP-0072",
+    "raw_record": {
+      "experiment_id": "EXP-0072",
+      "sop_id": "SOP-004",
+      "clause_id": "CLAUSE-019",
+      "parameter": "Nitrate Nitrogen",
+      "measured_value": 20.11,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-01-21"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Nitrate Nitrogen.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0072\nSOP: SOP-004 (Clause: CLAUSE-019)\nRun Date: 2025-01-21\nReported Measurement: 20.11 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0072 under SOP-004: measured value 20.11 mg/L on 2025-01-21.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 15,
+    "experiment_id": "EXP-0071",
+    "raw_record": {
+      "experiment_id": "EXP-0071",
+      "sop_id": "SOP-001",
+      "clause_id": "CLAUSE-006",
+      "parameter": "Sulfate Concentration",
+      "measured_value": 138.7,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-01-21"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Sulfate Concentration.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0071\nSOP: SOP-001 (Clause: CLAUSE-006)\nRun Date: 2025-01-21\nReported Measurement: 138.7 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0071 under SOP-001: measured value 138.7 mg/L on 2025-01-21.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 16,
+    "experiment_id": "EXP-0185",
+    "raw_record": {
+      "experiment_id": "EXP-0185",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-016",
+      "parameter": "Dissolved Chromium",
+      "measured_value": 0.066,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-02-11"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Chromium.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0185\nSOP: SOP-003 (Clause: CLAUSE-016)\nRun Date: 2025-02-11\nReported Measurement: 0.066 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0185 under SOP-003: measured value 0.066 mg/L on 2025-02-11.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 17,
+    "experiment_id": "EXP-0334",
+    "raw_record": {
+      "experiment_id": "EXP-0334",
+      "sop_id": "SOP-003",
+      "clause_id": "CLAUSE-014",
+      "parameter": "Dissolved Cadmium",
+      "measured_value": 5.6126,
+      "measurement_unit": "ug/L",
+      "run_date": "2025-03-18"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Dissolved Cadmium.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0334\nSOP: SOP-003 (Clause: CLAUSE-014)\nRun Date: 2025-03-18\nReported Measurement: 5.6126 ug/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0334 under SOP-003: measured value 5.6126 ug/L on 2025-03-18.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 18,
+    "experiment_id": "EXP-0351",
+    "raw_record": {
+      "experiment_id": "EXP-0351",
+      "sop_id": "SOP-002",
+      "clause_id": "CLAUSE-009",
+      "parameter": "Residual Solvents",
+      "measured_value": 309.6,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-03-23"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Residual Solvents.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0351\nSOP: SOP-002 (Clause: CLAUSE-009)\nRun Date: 2025-03-23\nReported Measurement: 309.6 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0351 under SOP-002: measured value 309.6 mg/L on 2025-03-23.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 19,
+    "experiment_id": "EXP-0818",
+    "raw_record": {
+      "experiment_id": "EXP-0818",
+      "sop_id": "SOP-001",
+      "clause_id": "CLAUSE-002",
+      "parameter": "Electrical Conductivity",
+      "measured_value": 202.3,
+      "measurement_unit": "\u00b5S/cm",
+      "run_date": "2025-06-16"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Electrical Conductivity.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0818\nSOP: SOP-001 (Clause: CLAUSE-002)\nRun Date: 2025-06-16\nReported Measurement: 202.3 \u00b5S/cm\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0818 under SOP-001: measured value 202.3 \u00b5S/cm on 2025-06-16.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  },
+  {
+    "sample_num": 20,
+    "experiment_id": "EXP-0989",
+    "raw_record": {
+      "experiment_id": "EXP-0989",
+      "sop_id": "SOP-004",
+      "clause_id": "CLAUSE-020",
+      "parameter": "Fluoride Content",
+      "measured_value": 1.0,
+      "measurement_unit": "mg/L",
+      "run_date": "2025-08-10"
+    },
+    "vault_status": "checks_passed",
+    "vault_verdict": "valid",
+    "vault_evidence_count": 5,
+    "user_message": "Analyze laboratory analytical measurement for Fluoride Content.\nVerify standard operating procedure compliance, calibration currency, and measurement specification.\n\nExperiment: EXP-0989\nSOP: SOP-004 (Clause: CLAUSE-020)\nRun Date: 2025-08-10\nReported Measurement: 1.0 mg/L\nClaimed Status: PASS",
+    "assistant_response": "Analytical evaluation of experiment EXP-0989 under SOP-004: measured value 1.0 mg/L on 2025-08-10.",
+    "analysis": {
+      "repeats_metadata_only": true,
+      "teaches_rule_logic": false,
+      "scientific_accuracy": true
+    }
+  }
+]

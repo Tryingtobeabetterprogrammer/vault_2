@@ -1,0 +1,74 @@
+{
+  "pipeline_config_hash": "f087ef1404e03454",
+  "run_timestamp": "2026-11-09T13:21:22.263064Z",
+  "source_files": [],
+  "stage_counts": {
+    "JSONLReader": {
+      "output_count": 202,
+      "rejected_count": 0
+    },
+    "SchemaGate": {
+      "input_count": 202,
+      "output_count": 202,
+      "probe_recovered": 0,
+      "rejected_count": 0
+    },
+    "ExactDeduplicator": {
+      "input_count": 202,
+      "output_count": 5
+    },
+    "TextCleaner": {
+      "input_count": 5,
+      "output_count": 5
+    },
+    "MessagesExporter": {
+      "exported_count": 5
+    }
+  },
+  "rejected_breakdown": {},
+  "dedup_stats": {
+    "exact_duplicates_removed": 197
+  },
+  "minhash_threshold": null,
+  "sampler_stats": null,
+  "token_stats": {
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "total_tokens": 0
+  },
+  "wall_clock_seconds": 0.031,
+  "tool_versions": {
+    "curatorkit": "0.1.21",
+    "python": "3.11.9"
+  },
+  "diversity_stats": null,
+  "diagnostic_stats": null,
+  "diagnostic_files": [],
+  "provenance": {
+    "schema": "lexsi.provenance/1",
+    "library": "curatorkit",
+    "version": "0.1.21",
+    "git_sha": null,
+    "created_at": "2026-11-09T13:21:22Z",
+    "base_model": null,
+    "method": "curate",
+    "inputs": [
+      {
+        "kind": "dataset",
+        "ref": "C:\\VAULT\\data\\kaggle_validation\\curator_staging\\kaggle_samples.jsonl",
+        "config": null,
+        "provenance": null
+      }
+    ],
+    "params": {
+      "generator_model": null,
+      "judge_model": null,
+      "grpo_scoring_model": null,
+      "export_formats": [
+        "messages"
+      ],
+      "output_split": null,
+      "pipeline_config_hash": "f087ef1404e03454"
+    }
+  }
+}

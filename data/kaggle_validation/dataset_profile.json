@@ -1,0 +1,752 @@
+{
+  "city_day.csv": {
+    "file_name": "city_day.csv",
+    "file_size_bytes": 2574056,
+    "sha256_hash": "0d84b21c3e4878bbad8df362f2ab05f61ad959538dddf5918e714077ed3c1847",
+    "total_rows": 29531,
+    "total_columns": 16,
+    "column_names": [
+      "City",
+      "Date",
+      "PM2.5",
+      "PM10",
+      "NO",
+      "NO2",
+      "NOx",
+      "NH3",
+      "CO",
+      "SO2",
+      "O3",
+      "Benzene",
+      "Toluene",
+      "Xylene",
+      "AQI",
+      "AQI_Bucket"
+    ],
+    "columns_profile": {
+      "City": {
+        "missing_count": 0,
+        "present_count": 29531,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "Date": {
+        "missing_count": 0,
+        "present_count": 29531,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "PM2.5": {
+        "missing_count": 4598,
+        "present_count": 24933,
+        "missing_percentage": 15.57,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "PM10": {
+        "missing_count": 11140,
+        "present_count": 18391,
+        "missing_percentage": 37.72,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO": {
+        "missing_count": 3582,
+        "present_count": 25949,
+        "missing_percentage": 12.13,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO2": {
+        "missing_count": 3585,
+        "present_count": 25946,
+        "missing_percentage": 12.14,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NOx": {
+        "missing_count": 4185,
+        "present_count": 25346,
+        "missing_percentage": 14.17,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ppb"
+      },
+      "NH3": {
+        "missing_count": 10328,
+        "present_count": 19203,
+        "missing_percentage": 34.97,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "CO": {
+        "missing_count": 2059,
+        "present_count": 27472,
+        "missing_percentage": 6.97,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "mg/m3"
+      },
+      "SO2": {
+        "missing_count": 3854,
+        "present_count": 25677,
+        "missing_percentage": 13.05,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "O3": {
+        "missing_count": 4022,
+        "present_count": 25509,
+        "missing_percentage": 13.62,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Benzene": {
+        "missing_count": 5623,
+        "present_count": 23908,
+        "missing_percentage": 19.04,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Toluene": {
+        "missing_count": 8041,
+        "present_count": 21490,
+        "missing_percentage": 27.23,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Xylene": {
+        "missing_count": 18109,
+        "present_count": 11422,
+        "missing_percentage": 61.32,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "AQI": {
+        "missing_count": 4681,
+        "present_count": 24850,
+        "missing_percentage": 15.85,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "dimensionless"
+      },
+      "AQI_Bucket": {
+        "missing_count": 4681,
+        "present_count": 24850,
+        "missing_percentage": 15.85,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "categorical"
+      }
+    },
+    "provenance": "Central Pollution Control Board (CPCB) India via Kaggle (Rohan Rao / Vopani)"
+  },
+  "city_hour.csv": {
+    "file_name": "city_hour.csv",
+    "file_size_bytes": 65648581,
+    "sha256_hash": "fae474062ec6b10af7c5b2ac4e32f5c240a0ef80835ee3a50332fec06e2190a4",
+    "total_rows": 707875,
+    "total_columns": 16,
+    "column_names": [
+      "City",
+      "Datetime",
+      "PM2.5",
+      "PM10",
+      "NO",
+      "NO2",
+      "NOx",
+      "NH3",
+      "CO",
+      "SO2",
+      "O3",
+      "Benzene",
+      "Toluene",
+      "Xylene",
+      "AQI",
+      "AQI_Bucket"
+    ],
+    "columns_profile": {
+      "City": {
+        "missing_count": 0,
+        "present_count": 707875,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "Datetime": {
+        "missing_count": 0,
+        "present_count": 707875,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "PM2.5": {
+        "missing_count": 145088,
+        "present_count": 562787,
+        "missing_percentage": 20.5,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "PM10": {
+        "missing_count": 296737,
+        "present_count": 411138,
+        "missing_percentage": 41.92,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO": {
+        "missing_count": 116632,
+        "present_count": 591243,
+        "missing_percentage": 16.48,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO2": {
+        "missing_count": 117122,
+        "present_count": 590753,
+        "missing_percentage": 16.55,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NOx": {
+        "missing_count": 123224,
+        "present_count": 584651,
+        "missing_percentage": 17.41,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ppb"
+      },
+      "NH3": {
+        "missing_count": 272542,
+        "present_count": 435333,
+        "missing_percentage": 38.5,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "CO": {
+        "missing_count": 86517,
+        "present_count": 621358,
+        "missing_percentage": 12.22,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "mg/m3"
+      },
+      "SO2": {
+        "missing_count": 130373,
+        "present_count": 577502,
+        "missing_percentage": 18.42,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "O3": {
+        "missing_count": 129208,
+        "present_count": 578667,
+        "missing_percentage": 18.25,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Benzene": {
+        "missing_count": 163646,
+        "present_count": 544229,
+        "missing_percentage": 23.12,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Toluene": {
+        "missing_count": 220607,
+        "present_count": 487268,
+        "missing_percentage": 31.16,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Xylene": {
+        "missing_count": 455829,
+        "present_count": 252046,
+        "missing_percentage": 64.39,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "AQI": {
+        "missing_count": 129080,
+        "present_count": 578795,
+        "missing_percentage": 18.23,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "dimensionless"
+      },
+      "AQI_Bucket": {
+        "missing_count": 129080,
+        "present_count": 578795,
+        "missing_percentage": 18.23,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "categorical"
+      }
+    },
+    "provenance": "Central Pollution Control Board (CPCB) India via Kaggle (Rohan Rao / Vopani)"
+  },
+  "station_day.csv": {
+    "file_name": "station_day.csv",
+    "file_size_bytes": 8634105,
+    "sha256_hash": "f07787eb4c36c53b07763f591ee29fa01fbaa4d18df1a470447d04def79677b9",
+    "total_rows": 108035,
+    "total_columns": 16,
+    "column_names": [
+      "StationId",
+      "Date",
+      "PM2.5",
+      "PM10",
+      "NO",
+      "NO2",
+      "NOx",
+      "NH3",
+      "CO",
+      "SO2",
+      "O3",
+      "Benzene",
+      "Toluene",
+      "Xylene",
+      "AQI",
+      "AQI_Bucket"
+    ],
+    "columns_profile": {
+      "StationId": {
+        "missing_count": 0,
+        "present_count": 108035,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "Date": {
+        "missing_count": 0,
+        "present_count": 108035,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "PM2.5": {
+        "missing_count": 21625,
+        "present_count": 86410,
+        "missing_percentage": 20.02,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "PM10": {
+        "missing_count": 42706,
+        "present_count": 65329,
+        "missing_percentage": 39.53,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO": {
+        "missing_count": 17106,
+        "present_count": 90929,
+        "missing_percentage": 15.83,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO2": {
+        "missing_count": 16547,
+        "present_count": 91488,
+        "missing_percentage": 15.32,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NOx": {
+        "missing_count": 15500,
+        "present_count": 92535,
+        "missing_percentage": 14.35,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ppb"
+      },
+      "NH3": {
+        "missing_count": 48105,
+        "present_count": 59930,
+        "missing_percentage": 44.53,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "CO": {
+        "missing_count": 12998,
+        "present_count": 95037,
+        "missing_percentage": 12.03,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "mg/m3"
+      },
+      "SO2": {
+        "missing_count": 25204,
+        "present_count": 82831,
+        "missing_percentage": 23.33,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "O3": {
+        "missing_count": 25568,
+        "present_count": 82467,
+        "missing_percentage": 23.67,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Benzene": {
+        "missing_count": 31455,
+        "present_count": 76580,
+        "missing_percentage": 29.12,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Toluene": {
+        "missing_count": 38702,
+        "present_count": 69333,
+        "missing_percentage": 35.82,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Xylene": {
+        "missing_count": 85137,
+        "present_count": 22898,
+        "missing_percentage": 78.81,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "AQI": {
+        "missing_count": 21010,
+        "present_count": 87025,
+        "missing_percentage": 19.45,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "dimensionless"
+      },
+      "AQI_Bucket": {
+        "missing_count": 21010,
+        "present_count": 87025,
+        "missing_percentage": 19.45,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "categorical"
+      }
+    },
+    "provenance": "Central Pollution Control Board (CPCB) India via Kaggle (Rohan Rao / Vopani)"
+  },
+  "station_hour.csv": {
+    "file_name": "station_hour.csv",
+    "file_size_bytes": 219675434,
+    "sha256_hash": "26a423c66fe9763064d580ffb007150375cfa2056e62b29d52b1b7857af54fde",
+    "total_rows": 2589083,
+    "total_columns": 16,
+    "column_names": [
+      "StationId",
+      "Datetime",
+      "PM2.5",
+      "PM10",
+      "NO",
+      "NO2",
+      "NOx",
+      "NH3",
+      "CO",
+      "SO2",
+      "O3",
+      "Benzene",
+      "Toluene",
+      "Xylene",
+      "AQI",
+      "AQI_Bucket"
+    ],
+    "columns_profile": {
+      "StationId": {
+        "missing_count": 0,
+        "present_count": 2589083,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "Datetime": {
+        "missing_count": 0,
+        "present_count": 2589083,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "PM2.5": {
+        "missing_count": 647689,
+        "present_count": 1941394,
+        "missing_percentage": 25.02,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "PM10": {
+        "missing_count": 1119252,
+        "present_count": 1469831,
+        "missing_percentage": 43.23,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO": {
+        "missing_count": 553711,
+        "present_count": 2035372,
+        "missing_percentage": 21.39,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NO2": {
+        "missing_count": 528973,
+        "present_count": 2060110,
+        "missing_percentage": 20.43,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "NOx": {
+        "missing_count": 490808,
+        "present_count": 2098275,
+        "missing_percentage": 18.96,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ppb"
+      },
+      "NH3": {
+        "missing_count": 1236618,
+        "present_count": 1352465,
+        "missing_percentage": 47.76,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "CO": {
+        "missing_count": 499302,
+        "present_count": 2089781,
+        "missing_percentage": 19.28,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "mg/m3"
+      },
+      "SO2": {
+        "missing_count": 742737,
+        "present_count": 1846346,
+        "missing_percentage": 28.69,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "O3": {
+        "missing_count": 725973,
+        "present_count": 1863110,
+        "missing_percentage": 28.04,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Benzene": {
+        "missing_count": 861579,
+        "present_count": 1727504,
+        "missing_percentage": 33.28,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Toluene": {
+        "missing_count": 1042366,
+        "present_count": 1546717,
+        "missing_percentage": 40.26,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "Xylene": {
+        "missing_count": 2075104,
+        "present_count": 513979,
+        "missing_percentage": 80.15,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "ug/m3"
+      },
+      "AQI": {
+        "missing_count": 570190,
+        "present_count": 2018893,
+        "missing_percentage": 22.02,
+        "inferred_data_types": [
+          "float"
+        ],
+        "documented_unit": "dimensionless"
+      },
+      "AQI_Bucket": {
+        "missing_count": 570190,
+        "present_count": 2018893,
+        "missing_percentage": 22.02,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "categorical"
+      }
+    },
+    "provenance": "Central Pollution Control Board (CPCB) India via Kaggle (Rohan Rao / Vopani)"
+  },
+  "stations.csv": {
+    "file_name": "stations.csv",
+    "file_size_bytes": 14467,
+    "sha256_hash": "ce2b7081c3e3c89145613eb724d7d2149ef79c6e16f36bb8a835747a673ed410",
+    "total_rows": 230,
+    "total_columns": 5,
+    "column_names": [
+      "StationId",
+      "StationName",
+      "City",
+      "State",
+      "Status"
+    ],
+    "columns_profile": {
+      "StationId": {
+        "missing_count": 0,
+        "present_count": 230,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "StationName": {
+        "missing_count": 0,
+        "present_count": 230,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "City": {
+        "missing_count": 0,
+        "present_count": 230,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "State": {
+        "missing_count": 0,
+        "present_count": 230,
+        "missing_percentage": 0.0,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      },
+      "Status": {
+        "missing_count": 97,
+        "present_count": 133,
+        "missing_percentage": 42.17,
+        "inferred_data_types": [
+          "string"
+        ],
+        "documented_unit": "documented_metadata"
+      }
+    },
+    "provenance": "Central Pollution Control Board (CPCB) India via Kaggle (Rohan Rao / Vopani)"
+  }
+}

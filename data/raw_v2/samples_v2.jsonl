@@ -1,0 +1,200 @@
+{"sample_id": "SMP-0001", "sample_matrix": "Purified Water", "collected_at": "2025-01-15T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0002", "sample_matrix": "Surface Water", "collected_at": "2025-01-16T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0003", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-01-17T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0004", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-01-19T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0005", "sample_matrix": "Purified Water", "collected_at": "2025-01-20T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0006", "sample_matrix": "Surface Water", "collected_at": "2025-01-21T08:30:00+02:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0007", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-01-23T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0008", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-01-24T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0009", "sample_matrix": "Purified Water", "collected_at": "2025-01-25T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0010", "sample_matrix": "Surface Water", "collected_at": "2025-01-27T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0011", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-01-28T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0012", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-01-29T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0013", "sample_matrix": "Purified Water", "collected_at": "2025-01-31T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0014", "sample_matrix": "Surface Water", "collected_at": "2025-02-01T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0015", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-02-02T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0016", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-02-04T08:30:00+01:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0017", "sample_matrix": "Purified Water", "collected_at": "2025-02-05T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0018", "sample_matrix": "Surface Water", "collected_at": "2025-02-06T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0019", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-02-08T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0020", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-02-09T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0021", "sample_matrix": "Purified Water", "collected_at": "2025-02-11T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0022", "sample_matrix": "Surface Water", "collected_at": "2025-02-12T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0023", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-02-13T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0024", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-02-15T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0025", "sample_matrix": "Purified Water", "collected_at": "2025-02-16T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0026", "sample_matrix": "Surface Water", "collected_at": "2025-02-17T08:30:00+02:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0027", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-02-19T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0028", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-02-20T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0029", "sample_matrix": "Purified Water", "collected_at": "2025-02-21T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0030", "sample_matrix": "Surface Water", "collected_at": "2025-02-23T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0031", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-02-24T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0032", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-02-25T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0033", "sample_matrix": "Purified Water", "collected_at": "2025-02-27T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0034", "sample_matrix": "Surface Water", "collected_at": "2025-02-28T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0035", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-01T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0036", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-03T08:30:00+01:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0037", "sample_matrix": "Purified Water", "collected_at": "2025-03-04T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0038", "sample_matrix": "Surface Water", "collected_at": "2025-03-05T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0039", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-07T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0040", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-08T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0041", "sample_matrix": "Purified Water", "collected_at": "2025-03-10T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0042", "sample_matrix": "Surface Water", "collected_at": "2025-03-11T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0043", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-12T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0044", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-14T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0045", "sample_matrix": "Purified Water", "collected_at": "2025-03-15T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0046", "sample_matrix": "Surface Water", "collected_at": "2025-03-16T08:30:00+02:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0047", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-18T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0048", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-19T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0049", "sample_matrix": "Purified Water", "collected_at": "2025-03-20T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0050", "sample_matrix": "Surface Water", "collected_at": "2025-03-22T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0051", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-23T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0052", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-24T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0053", "sample_matrix": "Purified Water", "collected_at": "2025-03-26T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0054", "sample_matrix": "Surface Water", "collected_at": "2025-03-27T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0055", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-03-28T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0056", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-03-30T08:30:00+01:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0057", "sample_matrix": "Purified Water", "collected_at": "2025-03-31T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0058", "sample_matrix": "Surface Water", "collected_at": "2025-04-01T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0059", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-03T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0060", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-04-04T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0061", "sample_matrix": "Purified Water", "collected_at": "2025-04-06T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0062", "sample_matrix": "Surface Water", "collected_at": "2025-04-07T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0063", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-08T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0064", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-04-10T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0065", "sample_matrix": "Purified Water", "collected_at": "2025-04-11T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0066", "sample_matrix": "Surface Water", "collected_at": "2025-04-12T08:30:00+02:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0067", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-14T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0068", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-04-15T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0069", "sample_matrix": "Purified Water", "collected_at": "2025-04-16T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0070", "sample_matrix": "Surface Water", "collected_at": "2025-04-18T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0071", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-19T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0072", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-04-20T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0073", "sample_matrix": "Purified Water", "collected_at": "2025-04-22T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0074", "sample_matrix": "Surface Water", "collected_at": "2025-04-23T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0075", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-24T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0076", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-04-26T08:30:00+01:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0077", "sample_matrix": "Purified Water", "collected_at": "2025-04-27T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0078", "sample_matrix": "Surface Water", "collected_at": "2025-04-28T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0079", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-04-30T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0080", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-01T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0081", "sample_matrix": "Purified Water", "collected_at": "2025-05-03T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0082", "sample_matrix": "Surface Water", "collected_at": "2025-05-04T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0083", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-05-05T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0084", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-07T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0085", "sample_matrix": "Purified Water", "collected_at": "2025-05-08T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0086", "sample_matrix": "Surface Water", "collected_at": "2025-05-09T08:30:00+02:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0087", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-05-11T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0088", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-12T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0089", "sample_matrix": "Purified Water", "collected_at": "2025-05-13T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0090", "sample_matrix": "Surface Water", "collected_at": "2025-05-15T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0091", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-05-16T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0092", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-17T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0093", "sample_matrix": "Purified Water", "collected_at": "2025-05-19T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0094", "sample_matrix": "Surface Water", "collected_at": "2025-05-20T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0095", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-05-21T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0096", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-23T08:30:00+01:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0097", "sample_matrix": "Purified Water", "collected_at": "2025-05-24T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0098", "sample_matrix": "Surface Water", "collected_at": "2025-05-25T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0099", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-05-27T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0100", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-05-28T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0101", "sample_matrix": "Purified Water", "collected_at": "2025-05-30T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0102", "sample_matrix": "Surface Water", "collected_at": "2025-05-31T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0103", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-01T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0104", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-03T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0105", "sample_matrix": "Purified Water", "collected_at": "2025-06-04T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0106", "sample_matrix": "Surface Water", "collected_at": "2025-06-05T08:30:00+02:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0107", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-07T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0108", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-08T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0109", "sample_matrix": "Purified Water", "collected_at": "2025-06-09T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0110", "sample_matrix": "Surface Water", "collected_at": "2025-06-11T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0111", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-12T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0112", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-13T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0113", "sample_matrix": "Purified Water", "collected_at": "2025-06-15T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0114", "sample_matrix": "Surface Water", "collected_at": "2025-06-16T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0115", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-17T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0116", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-19T08:30:00+01:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0117", "sample_matrix": "Purified Water", "collected_at": "2025-06-20T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0118", "sample_matrix": "Surface Water", "collected_at": "2025-06-21T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0119", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-23T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0120", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-24T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0121", "sample_matrix": "Purified Water", "collected_at": "2025-06-26T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0122", "sample_matrix": "Surface Water", "collected_at": "2025-06-27T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0123", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-06-28T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0124", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-06-30T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0125", "sample_matrix": "Purified Water", "collected_at": "2025-07-01T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0126", "sample_matrix": "Surface Water", "collected_at": "2025-07-02T08:30:00+02:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0127", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-04T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0128", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-07-05T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0129", "sample_matrix": "Purified Water", "collected_at": "2025-07-06T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0130", "sample_matrix": "Surface Water", "collected_at": "2025-07-08T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0131", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-09T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0132", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-07-10T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0133", "sample_matrix": "Purified Water", "collected_at": "2025-07-12T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0134", "sample_matrix": "Surface Water", "collected_at": "2025-07-13T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0135", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-14T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0136", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-07-16T08:30:00+01:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0137", "sample_matrix": "Purified Water", "collected_at": "2025-07-17T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0138", "sample_matrix": "Surface Water", "collected_at": "2025-07-18T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0139", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-20T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0140", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-07-21T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0141", "sample_matrix": "Purified Water", "collected_at": "2025-07-23T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0142", "sample_matrix": "Surface Water", "collected_at": "2025-07-24T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0143", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-25T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0144", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-07-27T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0145", "sample_matrix": "Purified Water", "collected_at": "2025-07-28T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0146", "sample_matrix": "Surface Water", "collected_at": "2025-07-29T08:30:00+02:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0147", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-07-31T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0148", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-01T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0149", "sample_matrix": "Purified Water", "collected_at": "2025-08-02T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0150", "sample_matrix": "Surface Water", "collected_at": "2025-08-04T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0151", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-08-05T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0152", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-06T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0153", "sample_matrix": "Purified Water", "collected_at": "2025-08-08T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0154", "sample_matrix": "Surface Water", "collected_at": "2025-08-09T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0155", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-08-10T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0156", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-12T08:30:00+01:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0157", "sample_matrix": "Purified Water", "collected_at": "2025-08-13T08:30:00-04:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0158", "sample_matrix": "Surface Water", "collected_at": "2025-08-14T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0159", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-08-16T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0160", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-17T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0161", "sample_matrix": "Purified Water", "collected_at": "2025-08-19T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0162", "sample_matrix": "Surface Water", "collected_at": "2025-08-20T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0163", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-08-21T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0164", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-23T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0165", "sample_matrix": "Purified Water", "collected_at": "2025-08-24T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0166", "sample_matrix": "Surface Water", "collected_at": "2025-08-25T08:30:00+02:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0167", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-08-27T08:30:00-07:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0168", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-08-28T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0169", "sample_matrix": "Purified Water", "collected_at": "2025-08-29T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0170", "sample_matrix": "Surface Water", "collected_at": "2025-08-31T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0171", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-01T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0172", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-02T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0173", "sample_matrix": "Purified Water", "collected_at": "2025-09-04T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0174", "sample_matrix": "Surface Water", "collected_at": "2025-09-05T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0175", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-06T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0176", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-08T08:30:00+01:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0177", "sample_matrix": "Purified Water", "collected_at": "2025-09-09T08:30:00-04:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0178", "sample_matrix": "Surface Water", "collected_at": "2025-09-10T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0179", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-12T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0180", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-13T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0181", "sample_matrix": "Purified Water", "collected_at": "2025-09-15T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0182", "sample_matrix": "Surface Water", "collected_at": "2025-09-16T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0183", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-17T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0184", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-19T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0185", "sample_matrix": "Purified Water", "collected_at": "2025-09-20T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0186", "sample_matrix": "Surface Water", "collected_at": "2025-09-21T08:30:00+02:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0187", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-23T08:30:00-07:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0188", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-24T08:30:00", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0189", "sample_matrix": "Purified Water", "collected_at": "2025-09-25T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0190", "sample_matrix": "Surface Water", "collected_at": "2025-09-27T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0191", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-09-28T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0192", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-09-29T08:30:00Z", "max_holding_hours": 72.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0193", "sample_matrix": "Purified Water", "collected_at": "2025-10-01T08:30:00Z", "max_holding_hours": 24.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0194", "sample_matrix": "Surface Water", "collected_at": "2025-10-02T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0195", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-10-03T08:30:00-07:00", "max_holding_hours": 72.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0196", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-10-05T08:30:00+01:00", "max_holding_hours": 24.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}
+{"sample_id": "SMP-0197", "sample_matrix": "Purified Water", "collected_at": "2025-10-06T08:30:00-04:00", "max_holding_hours": 48.0, "site_id": "SITE-BOS", "site_timezone": "America/New_York"}
+{"sample_id": "SMP-0198", "sample_matrix": "Surface Water", "collected_at": "2025-10-07T08:30:00", "max_holding_hours": 72.0, "site_id": "SITE-BER", "site_timezone": "Europe/Berlin"}
+{"sample_id": "SMP-0199", "sample_matrix": "Active Pharmaceutical Ingredient", "collected_at": "2025-10-09T08:30:00", "max_holding_hours": 24.0, "site_id": "SITE-SFO", "site_timezone": "America/Los_Angeles"}
+{"sample_id": "SMP-0200", "sample_matrix": "Wastewater Effluent", "collected_at": "2025-10-10T08:30:00Z", "max_holding_hours": 48.0, "site_id": "SITE-LON", "site_timezone": "Europe/London"}

@@ -1,0 +1,1204 @@
+[
+  {
+    "original_record_id": "EXP-1049",
+    "corrupted_record_id": "EXP-1049",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0267",
+    "corrupted_record_id": "EXP-0267",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0090",
+    "corrupted_record_id": "EXP-0090",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0455",
+    "corrupted_record_id": "EXP-0455",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0418",
+    "corrupted_record_id": "EXP-0418",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0394",
+    "corrupted_record_id": "EXP-0394",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0304",
+    "corrupted_record_id": "EXP-0304",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0249",
+    "corrupted_record_id": "EXP-0249",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-1144",
+    "corrupted_record_id": "EXP-1144",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0879",
+    "corrupted_record_id": "EXP-0879",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0227",
+    "corrupted_record_id": "EXP-0227",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0941",
+    "corrupted_record_id": "EXP-0941",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0687",
+    "corrupted_record_id": "EXP-0687",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Timezone valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0105",
+    "corrupted_record_id": "EXP-0105",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0103",
+    "corrupted_record_id": "EXP-0103",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0233",
+    "corrupted_record_id": "EXP-0233",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0389",
+    "corrupted_record_id": "EXP-0389",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Unit conversion valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0404",
+    "corrupted_record_id": "EXP-0404",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0821",
+    "corrupted_record_id": "EXP-0821",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Unit conversion valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0965",
+    "corrupted_record_id": "EXP-0965",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0096",
+    "corrupted_record_id": "EXP-0096",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0895",
+    "corrupted_record_id": "EXP-0895",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Unit conversion valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0369",
+    "corrupted_record_id": "EXP-0369",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-1075",
+    "corrupted_record_id": "EXP-1075",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-1199",
+    "corrupted_record_id": "EXP-1199",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0678",
+    "corrupted_record_id": "EXP-0678",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0391",
+    "corrupted_record_id": "EXP-0391",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Unit conversion valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0737",
+    "corrupted_record_id": "EXP-0737",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Timezone valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0938",
+    "corrupted_record_id": "EXP-0938",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0458",
+    "corrupted_record_id": "EXP-0458",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0052",
+    "corrupted_record_id": "EXP-0052",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0328",
+    "corrupted_record_id": "EXP-0328",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-1193",
+    "corrupted_record_id": "EXP-1193",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0537",
+    "corrupted_record_id": "EXP-0537",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0324",
+    "corrupted_record_id": "EXP-0324",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0386",
+    "corrupted_record_id": "EXP-0386",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0531",
+    "corrupted_record_id": "EXP-0531",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0232",
+    "corrupted_record_id": "EXP-0232",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0593",
+    "corrupted_record_id": "EXP-0593",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Unit conversion valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0238",
+    "corrupted_record_id": "EXP-0238",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0562",
+    "corrupted_record_id": "EXP-0562",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Timezone valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0541",
+    "corrupted_record_id": "EXP-0541",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Timezone valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0969",
+    "corrupted_record_id": "EXP-0969",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0441",
+    "corrupted_record_id": "EXP-0441",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0134",
+    "corrupted_record_id": "EXP-0134",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0756",
+    "corrupted_record_id": "EXP-0756",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0867",
+    "corrupted_record_id": "EXP-0867",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0286",
+    "corrupted_record_id": "EXP-0286",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0591",
+    "corrupted_record_id": "EXP-0591",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0204",
+    "corrupted_record_id": "EXP-0204",
+    "corruption_type": "none (clean control)",
+    "is_corrupted": false,
+    "scenario_family": "Nominal valid",
+    "description": "Clean valid control record"
+  },
+  {
+    "original_record_id": "EXP-0949",
+    "corrupted_record_id": "CORR-EXP-0949-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0510",
+    "corrupted_record_id": "CORR-EXP-0510-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Missing context: required reference clause_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-1139",
+    "corrupted_record_id": "CORR-EXP-1139-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-1114",
+    "corrupted_record_id": "CORR-EXP-1114-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0625",
+    "corrupted_record_id": "CORR-EXP-0625-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-1005",
+    "corrupted_record_id": "CORR-EXP-1005-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0380",
+    "corrupted_record_id": "CORR-EXP-0380-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference instrument_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0201",
+    "corrupted_record_id": "CORR-EXP-0201-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0147",
+    "corrupted_record_id": "CORR-EXP-0147-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0427",
+    "corrupted_record_id": "CORR-EXP-0427-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0504",
+    "corrupted_record_id": "CORR-EXP-0504-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0220",
+    "corrupted_record_id": "CORR-EXP-0220-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Missing context: required reference clause_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0433",
+    "corrupted_record_id": "CORR-EXP-0433-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0269",
+    "corrupted_record_id": "CORR-EXP-0269-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0669",
+    "corrupted_record_id": "CORR-EXP-0669-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0491",
+    "corrupted_record_id": "CORR-EXP-0491-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0799",
+    "corrupted_record_id": "CORR-EXP-0799-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference sample_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-1159",
+    "corrupted_record_id": "CORR-EXP-1159-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0633",
+    "corrupted_record_id": "CORR-EXP-0633-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0349",
+    "corrupted_record_id": "CORR-EXP-0349-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0643",
+    "corrupted_record_id": "CORR-EXP-0643-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0609",
+    "corrupted_record_id": "CORR-EXP-0609-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference clause_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0402",
+    "corrupted_record_id": "CORR-EXP-0402-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0477",
+    "corrupted_record_id": "CORR-EXP-0477-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-1188",
+    "corrupted_record_id": "CORR-EXP-1188-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0203",
+    "corrupted_record_id": "CORR-EXP-0203-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-1089",
+    "corrupted_record_id": "CORR-EXP-1089-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference sample_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0358",
+    "corrupted_record_id": "CORR-EXP-0358-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0913",
+    "corrupted_record_id": "CORR-EXP-0913-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0448",
+    "corrupted_record_id": "CORR-EXP-0448-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0350",
+    "corrupted_record_id": "CORR-EXP-0350-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0812",
+    "corrupted_record_id": "CORR-EXP-0812-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference sample_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0662",
+    "corrupted_record_id": "CORR-EXP-0662-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0480",
+    "corrupted_record_id": "CORR-EXP-0480-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-1170",
+    "corrupted_record_id": "CORR-EXP-1170-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0958",
+    "corrupted_record_id": "CORR-EXP-0958-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0415",
+    "corrupted_record_id": "CORR-EXP-0415-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "Missing context: required reference instrument_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0556",
+    "corrupted_record_id": "CORR-EXP-0556-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0175",
+    "corrupted_record_id": "CORR-EXP-0175-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0428",
+    "corrupted_record_id": "CORR-EXP-0428-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0117",
+    "corrupted_record_id": "CORR-EXP-0117-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0543",
+    "corrupted_record_id": "CORR-EXP-0543-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "Missing context: required reference instrument_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0717",
+    "corrupted_record_id": "CORR-EXP-0717-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0478",
+    "corrupted_record_id": "CORR-EXP-0478-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0195",
+    "corrupted_record_id": "CORR-EXP-0195-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-0405",
+    "corrupted_record_id": "CORR-EXP-0405-WRONG_",
+    "corruption_type": "wrong_arithmetic",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "Arithmetic contradiction: 15 mg / 0.5 L reported as 3.0 mg/L (expected 30.0 mg/L)",
+    "expected_defect": "ARITHMETIC_CONTRADICTION"
+  },
+  {
+    "original_record_id": "EXP-0982",
+    "corrupted_record_id": "CORR-EXP-0982-MISSIN",
+    "corruption_type": "missing_context",
+    "is_corrupted": true,
+    "scenario_family": "Nominal valid",
+    "description": "Missing context: required reference instrument_id dropped to None",
+    "expected_defect": "MISSING_REQUIRED_EVIDENCE"
+  },
+  {
+    "original_record_id": "EXP-0540",
+    "corrupted_record_id": "CORR-EXP-0540-WRONG_",
+    "corruption_type": "wrong_sop_version",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "Wrong SOP version: replaced with unauthorized/obsolete version 99.0-OBSOLETE",
+    "expected_defect": "SOP_VERSION_INVALID"
+  },
+  {
+    "original_record_id": "EXP-0407",
+    "corrupted_record_id": "CORR-EXP-0407-FALSE_",
+    "corruption_type": "false_verdict",
+    "is_corrupted": true,
+    "scenario_family": "Timezone valid",
+    "description": "False analyst verdict: claimed PASS on 999,999,999.0 (far exceeding specification)",
+    "expected_defect": "MEASUREMENT_OUT_OF_RANGE"
+  },
+  {
+    "original_record_id": "EXP-0868",
+    "corrupted_record_id": "CORR-EXP-0868-UNSUPP",
+    "corruption_type": "unsupported_claim",
+    "is_corrupted": true,
+    "scenario_family": "Unit conversion valid",
+    "description": "Unsupported scientific claim: unvalidated novel method without assumptions",
+    "expected_defect": "NOVEL_METHOD_UNVALIDATED"
+  },
+  {
+    "original_record_id": "EXP-1091",
+    "corrupted_record_id": "EXP-1091",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Broken foreign key review",
+    "description": "Inherent synthetic scenario family: Broken foreign key review"
+  },
+  {
+    "original_record_id": "EXP-1146",
+    "corrupted_record_id": "EXP-1146",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Broken foreign key review",
+    "description": "Inherent synthetic scenario family: Broken foreign key review"
+  },
+  {
+    "original_record_id": "EXP-1136",
+    "corrupted_record_id": "EXP-1136",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Broken foreign key review",
+    "description": "Inherent synthetic scenario family: Broken foreign key review"
+  },
+  {
+    "original_record_id": "EXP-1126",
+    "corrupted_record_id": "EXP-1126",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Broken foreign key review",
+    "description": "Inherent synthetic scenario family: Broken foreign key review"
+  },
+  {
+    "original_record_id": "EXP-0158",
+    "corrupted_record_id": "EXP-0158",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Calibration expiry invalid",
+    "description": "Inherent synthetic scenario family: Calibration expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0119",
+    "corrupted_record_id": "EXP-0119",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Calibration expiry invalid",
+    "description": "Inherent synthetic scenario family: Calibration expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0251",
+    "corrupted_record_id": "EXP-0251",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Calibration expiry invalid",
+    "description": "Inherent synthetic scenario family: Calibration expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0250",
+    "corrupted_record_id": "EXP-0250",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Calibration expiry invalid",
+    "description": "Inherent synthetic scenario family: Calibration expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0094",
+    "corrupted_record_id": "EXP-0094",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound dual failure invalid",
+    "description": "Inherent synthetic scenario family: Compound dual failure invalid"
+  },
+  {
+    "original_record_id": "EXP-0092",
+    "corrupted_record_id": "EXP-0092",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound dual failure invalid",
+    "description": "Inherent synthetic scenario family: Compound dual failure invalid"
+  },
+  {
+    "original_record_id": "EXP-0111",
+    "corrupted_record_id": "EXP-0111",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound dual failure invalid",
+    "description": "Inherent synthetic scenario family: Compound dual failure invalid"
+  },
+  {
+    "original_record_id": "EXP-0113",
+    "corrupted_record_id": "EXP-0113",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound dual failure invalid",
+    "description": "Inherent synthetic scenario family: Compound dual failure invalid"
+  },
+  {
+    "original_record_id": "EXP-0087",
+    "corrupted_record_id": "EXP-0087",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound failure with review",
+    "description": "Inherent synthetic scenario family: Compound failure with review"
+  },
+  {
+    "original_record_id": "EXP-0162",
+    "corrupted_record_id": "EXP-0162",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound failure with review",
+    "description": "Inherent synthetic scenario family: Compound failure with review"
+  },
+  {
+    "original_record_id": "EXP-0258",
+    "corrupted_record_id": "EXP-0258",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound failure with review",
+    "description": "Inherent synthetic scenario family: Compound failure with review"
+  },
+  {
+    "original_record_id": "EXP-0067",
+    "corrupted_record_id": "EXP-0067",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Compound failure with review",
+    "description": "Inherent synthetic scenario family: Compound failure with review"
+  },
+  {
+    "original_record_id": "EXP-0566",
+    "corrupted_record_id": "EXP-0566",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Holding time exceeded invalid",
+    "description": "Inherent synthetic scenario family: Holding time exceeded invalid"
+  },
+  {
+    "original_record_id": "EXP-0714",
+    "corrupted_record_id": "EXP-0714",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Holding time exceeded invalid",
+    "description": "Inherent synthetic scenario family: Holding time exceeded invalid"
+  },
+  {
+    "original_record_id": "EXP-0613",
+    "corrupted_record_id": "EXP-0613",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Holding time exceeded invalid",
+    "description": "Inherent synthetic scenario family: Holding time exceeded invalid"
+  },
+  {
+    "original_record_id": "EXP-0652",
+    "corrupted_record_id": "EXP-0652",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Holding time exceeded invalid",
+    "description": "Inherent synthetic scenario family: Holding time exceeded invalid"
+  },
+  {
+    "original_record_id": "EXP-0017",
+    "corrupted_record_id": "EXP-0017",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Lot expiry invalid",
+    "description": "Inherent synthetic scenario family: Lot expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0036",
+    "corrupted_record_id": "EXP-0036",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Lot expiry invalid",
+    "description": "Inherent synthetic scenario family: Lot expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0001",
+    "corrupted_record_id": "EXP-0001",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Lot expiry invalid",
+    "description": "Inherent synthetic scenario family: Lot expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0044",
+    "corrupted_record_id": "EXP-0044",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Lot expiry invalid",
+    "description": "Inherent synthetic scenario family: Lot expiry invalid"
+  },
+  {
+    "original_record_id": "EXP-0947",
+    "corrupted_record_id": "EXP-0947",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement boundary uncertainty review",
+    "description": "Inherent synthetic scenario family: Measurement boundary uncertainty review"
+  },
+  {
+    "original_record_id": "EXP-1195",
+    "corrupted_record_id": "EXP-1195",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement boundary uncertainty review",
+    "description": "Inherent synthetic scenario family: Measurement boundary uncertainty review"
+  },
+  {
+    "original_record_id": "EXP-1032",
+    "corrupted_record_id": "EXP-1032",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement boundary uncertainty review",
+    "description": "Inherent synthetic scenario family: Measurement boundary uncertainty review"
+  },
+  {
+    "original_record_id": "EXP-1077",
+    "corrupted_record_id": "EXP-1077",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement boundary uncertainty review",
+    "description": "Inherent synthetic scenario family: Measurement boundary uncertainty review"
+  },
+  {
+    "original_record_id": "EXP-0573",
+    "corrupted_record_id": "EXP-0573",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement out of range invalid",
+    "description": "Inherent synthetic scenario family: Measurement out of range invalid"
+  },
+  {
+    "original_record_id": "EXP-0695",
+    "corrupted_record_id": "EXP-0695",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement out of range invalid",
+    "description": "Inherent synthetic scenario family: Measurement out of range invalid"
+  },
+  {
+    "original_record_id": "EXP-0772",
+    "corrupted_record_id": "EXP-0772",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement out of range invalid",
+    "description": "Inherent synthetic scenario family: Measurement out of range invalid"
+  },
+  {
+    "original_record_id": "EXP-0598",
+    "corrupted_record_id": "EXP-0598",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Measurement out of range invalid",
+    "description": "Inherent synthetic scenario family: Measurement out of range invalid"
+  },
+  {
+    "original_record_id": "EXP-1058",
+    "corrupted_record_id": "EXP-1058",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Missing evidence review",
+    "description": "Inherent synthetic scenario family: Missing evidence review"
+  },
+  {
+    "original_record_id": "EXP-0932",
+    "corrupted_record_id": "EXP-0932",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Missing evidence review",
+    "description": "Inherent synthetic scenario family: Missing evidence review"
+  },
+  {
+    "original_record_id": "EXP-1143",
+    "corrupted_record_id": "EXP-1143",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Missing evidence review",
+    "description": "Inherent synthetic scenario family: Missing evidence review"
+  },
+  {
+    "original_record_id": "EXP-0996",
+    "corrupted_record_id": "EXP-0996",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Missing evidence review",
+    "description": "Inherent synthetic scenario family: Missing evidence review"
+  },
+  {
+    "original_record_id": "EXP-0686",
+    "corrupted_record_id": "EXP-0686",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "SOP overlap conflict review",
+    "description": "Inherent synthetic scenario family: SOP overlap conflict review"
+  },
+  {
+    "original_record_id": "EXP-0622",
+    "corrupted_record_id": "EXP-0622",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "SOP overlap conflict review",
+    "description": "Inherent synthetic scenario family: SOP overlap conflict review"
+  },
+  {
+    "original_record_id": "EXP-0614",
+    "corrupted_record_id": "EXP-0614",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "SOP overlap conflict review",
+    "description": "Inherent synthetic scenario family: SOP overlap conflict review"
+  },
+  {
+    "original_record_id": "EXP-0649",
+    "corrupted_record_id": "EXP-0649",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "SOP overlap conflict review",
+    "description": "Inherent synthetic scenario family: SOP overlap conflict review"
+  },
+  {
+    "original_record_id": "EXP-0830",
+    "corrupted_record_id": "EXP-0830",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Timestamp inversion invalid",
+    "description": "Inherent synthetic scenario family: Timestamp inversion invalid"
+  },
+  {
+    "original_record_id": "EXP-0800",
+    "corrupted_record_id": "EXP-0800",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Timestamp inversion invalid",
+    "description": "Inherent synthetic scenario family: Timestamp inversion invalid"
+  },
+  {
+    "original_record_id": "EXP-0822",
+    "corrupted_record_id": "EXP-0822",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Timestamp inversion invalid",
+    "description": "Inherent synthetic scenario family: Timestamp inversion invalid"
+  },
+  {
+    "original_record_id": "EXP-0721",
+    "corrupted_record_id": "EXP-0721",
+    "corruption_type": "none (inherent defect scenario)",
+    "is_corrupted": false,
+    "scenario_family": "Timestamp inversion invalid",
+    "description": "Inherent synthetic scenario family: Timestamp inversion invalid"
+  }
+]

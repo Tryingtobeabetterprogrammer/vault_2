@@ -1,0 +1,28 @@
+{
+  "version": "2.0.0",
+  "seed": 42,
+  "generated_at": "2026-11-09T06:51:16.901112+00:00",
+  "counts": {
+    "sops": 43,
+    "instruments": 30,
+    "lots": 50,
+    "samples": 200,
+    "experiments": 1200
+  },
+  "scenario_family_distribution": {
+    "Lot expiry invalid": 45,
+    "Nominal valid": 520,
+    "Compound failure with review": 40,
+    "Calibration expiry invalid": 45,
+    "Compound dual failure invalid": 35,
+    "Unit conversion valid": 120,
+    "Timezone valid": 80,
+    "Holding time exceeded invalid": 45,
+    "Measurement out of range invalid": 45,
+    "SOP overlap conflict review": 40,
+    "Timestamp inversion invalid": 25,
+    "Measurement boundary uncertainty review": 70,
+    "Missing evidence review": 55,
+    "Broken foreign key review": 35
+  }
+}

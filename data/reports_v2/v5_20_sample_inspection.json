@@ -1,0 +1,242 @@
+[
+  {
+    "sample_num": 1,
+    "experiment_id": "EXP-1049",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-1049 (Turbidity Level):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-004.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-08-28."
+    ]
+  },
+  {
+    "sample_num": 2,
+    "experiment_id": "EXP-0267",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0267 (Fluoride Content):",
+      "Verdict: COMPLIANT (PASS) under SOP-004 Clause CLAUSE-020.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-02-27."
+    ]
+  },
+  {
+    "sample_num": 3,
+    "experiment_id": "EXP-0090",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0090 (Residual Solvents):",
+      "Verdict: COMPLIANT (PASS) under SOP-002 Clause CLAUSE-009.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-01-25."
+    ]
+  },
+  {
+    "sample_num": 4,
+    "experiment_id": "EXP-0455",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0455 (Dissolved Lead):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-013.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-04-18."
+    ]
+  },
+  {
+    "sample_num": 5,
+    "experiment_id": "EXP-0418",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0418 (Particulate Matter (>= 10 um)):",
+      "Verdict: COMPLIANT (PASS) under SOP-006 Clause CLAUSE-029.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-04-10."
+    ]
+  },
+  {
+    "sample_num": 6,
+    "experiment_id": "EXP-0394",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0394 (Heavy Metals (General)):",
+      "Verdict: COMPLIANT (PASS) under SOP-008 Clause CLAUSE-033.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-04-04."
+    ]
+  },
+  {
+    "sample_num": 7,
+    "experiment_id": "EXP-0304",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0304 (Sulfate Concentration):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-006.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-03-08."
+    ]
+  },
+  {
+    "sample_num": 8,
+    "experiment_id": "EXP-0249",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0249 (Particulate Matter (>= 10 um)):",
+      "Verdict: COMPLIANT (PASS) under SOP-006 Clause CLAUSE-029.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-02-23."
+    ]
+  },
+  {
+    "sample_num": 9,
+    "experiment_id": "EXP-1144",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-1144 (Chloride Concentration):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-005.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-09-23."
+    ]
+  },
+  {
+    "sample_num": 10,
+    "experiment_id": "EXP-0879",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0879 (Dissolved Chromium):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-016.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-07-01."
+    ]
+  },
+  {
+    "sample_num": 11,
+    "experiment_id": "EXP-0227",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0227 (pH Value):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-001.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-02-19."
+    ]
+  },
+  {
+    "sample_num": 12,
+    "experiment_id": "EXP-0941",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0941 (Chloride Concentration):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-005.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-07-25."
+    ]
+  },
+  {
+    "sample_num": 13,
+    "experiment_id": "EXP-0687",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0687 (Nitrate Nitrogen):",
+      "Verdict: COMPLIANT (PASS) under SOP-004 Clause CLAUSE-019.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-05-26."
+    ]
+  },
+  {
+    "sample_num": 14,
+    "experiment_id": "EXP-0105",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0105 (Endotoxin Concentration):",
+      "Verdict: COMPLIANT (PASS) under SOP-006 Clause CLAUSE-028.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-01-28."
+    ]
+  },
+  {
+    "sample_num": 15,
+    "experiment_id": "EXP-0103",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0103 (Total Dissolved Solids):",
+      "Verdict: COMPLIANT (PASS) under SOP-001 Clause CLAUSE-003.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-01-28."
+    ]
+  },
+  {
+    "sample_num": 16,
+    "experiment_id": "EXP-0233",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0233 (Dissolved Arsenic):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-015.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-02-20."
+    ]
+  },
+  {
+    "sample_num": 17,
+    "experiment_id": "EXP-0389",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0389 (Dissolved Lead):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-013.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-04-03."
+    ]
+  },
+  {
+    "sample_num": 18,
+    "experiment_id": "EXP-0404",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0404 (Yeast and Mold Count):",
+      "Verdict: COMPLIANT (PASS) under SOP-005 Clause CLAUSE-027.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '1.0' is valid and authorized on 2025-04-07."
+    ]
+  },
+  {
+    "sample_num": 19,
+    "experiment_id": "EXP-0821",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0821 (Dissolved Chromium):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-016.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-06-16."
+    ]
+  },
+  {
+    "sample_num": 20,
+    "experiment_id": "EXP-0965",
+    "all_5_rules_explained": true,
+    "explanation_snippet": [
+      "Scientific Compliance Verification for EXP-0965 (Dissolved Cadmium):",
+      "Verdict: COMPLIANT (PASS) under SOP-003 Clause CLAUSE-014.",
+      "",
+      "Evidence Breakdown:",
+      "1. Standard Operating Procedure: SOP version '2.0' is valid and authorized on 2025-08-02."
+    ]
+  }
+]

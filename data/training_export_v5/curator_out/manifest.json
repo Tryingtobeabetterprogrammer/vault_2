@@ -1,0 +1,74 @@
+{
+  "pipeline_config_hash": "c9e09ffcb20d5722",
+  "run_timestamp": "2026-11-09T10:59:48.999080Z",
+  "source_files": [],
+  "stage_counts": {
+    "JSONLReader": {
+      "output_count": 720,
+      "rejected_count": 0
+    },
+    "SchemaGate": {
+      "input_count": 720,
+      "output_count": 720,
+      "probe_recovered": 0,
+      "rejected_count": 0
+    },
+    "ExactDeduplicator": {
+      "input_count": 720,
+      "output_count": 720
+    },
+    "TextCleaner": {
+      "input_count": 720,
+      "output_count": 720
+    },
+    "MessagesExporter": {
+      "exported_count": 720
+    }
+  },
+  "rejected_breakdown": {},
+  "dedup_stats": {
+    "exact_duplicates_removed": 0
+  },
+  "minhash_threshold": null,
+  "sampler_stats": null,
+  "token_stats": {
+    "total_prompt_tokens": 0,
+    "total_completion_tokens": 0,
+    "total_tokens": 0
+  },
+  "wall_clock_seconds": 0.25,
+  "tool_versions": {
+    "curatorkit": "0.1.21",
+    "python": "3.11.9"
+  },
+  "diversity_stats": null,
+  "diagnostic_stats": null,
+  "diagnostic_files": [],
+  "provenance": {
+    "schema": "lexsi.provenance/1",
+    "library": "curatorkit",
+    "version": "0.1.21",
+    "git_sha": null,
+    "created_at": "2026-11-09T10:59:48Z",
+    "base_model": null,
+    "method": "curate",
+    "inputs": [
+      {
+        "kind": "dataset",
+        "ref": "C:\\VAULT\\data\\training_export_v5\\staging\\verified_training_input.jsonl",
+        "config": null,
+        "provenance": null
+      }
+    ],
+    "params": {
+      "generator_model": null,
+      "judge_model": null,
+      "grpo_scoring_model": null,
+      "export_formats": [
+        "messages"
+      ],
+      "output_split": null,
+      "pipeline_config_hash": "c9e09ffcb20d5722"
+    }
+  }
+}

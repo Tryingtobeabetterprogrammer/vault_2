@@ -1,0 +1,30 @@
+{"instrument_id": "INST-001", "instrument_type": "HPLC", "calibration_date": "2024-10-08", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-002", "instrument_type": "pH Meter", "calibration_date": "2024-10-15", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-003", "instrument_type": "Conductivity Meter", "calibration_date": "2024-10-22", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-004", "instrument_type": "Turbidimeter", "calibration_date": "2024-10-29", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-005", "instrument_type": "AAS", "calibration_date": "2024-11-05", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-006", "instrument_type": "ICP-MS", "calibration_date": "2024-11-12", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-007", "instrument_type": "Ion Chromatograph", "calibration_date": "2024-10-05", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-008", "instrument_type": "Spectrophotometer", "calibration_date": "2024-10-12", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-009", "instrument_type": "GC-FID", "calibration_date": "2024-10-19", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-010", "instrument_type": "Dissolution Tester", "calibration_date": "2024-10-26", "validity_days": 90, "calibration_status": "EXPIRED"}
+{"instrument_id": "INST-011", "instrument_type": "Karl Fischer Titrator", "calibration_date": "2025-01-02", "validity_days": 565, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-012", "instrument_type": "ISE Meter", "calibration_date": "2025-01-02", "validity_days": 580, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-013", "instrument_type": "Microplate Reader / LAL", "calibration_date": "2025-01-02", "validity_days": 595, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-014", "instrument_type": "Incubator / Colony Counter", "calibration_date": "2025-01-02", "validity_days": 510, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-015", "instrument_type": "Light Obscuration Particle Counter", "calibration_date": "2025-01-02", "validity_days": 525, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-016", "instrument_type": "HPLC", "calibration_date": "2025-01-02", "validity_days": 540, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-017", "instrument_type": "pH Meter", "calibration_date": "2025-01-02", "validity_days": 555, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-018", "instrument_type": "Conductivity Meter", "calibration_date": "2025-01-02", "validity_days": 570, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-019", "instrument_type": "Turbidimeter", "calibration_date": "2025-01-02", "validity_days": 585, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-020", "instrument_type": "AAS", "calibration_date": "2025-01-02", "validity_days": 500, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-021", "instrument_type": "ICP-MS", "calibration_date": "2025-01-02", "validity_days": 515, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-022", "instrument_type": "Ion Chromatograph", "calibration_date": "2025-01-02", "validity_days": 530, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-023", "instrument_type": "Spectrophotometer", "calibration_date": "2025-01-02", "validity_days": 545, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-024", "instrument_type": "GC-FID", "calibration_date": "2025-01-02", "validity_days": 560, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-025", "instrument_type": "Dissolution Tester", "calibration_date": "2025-01-02", "validity_days": 575, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-026", "instrument_type": "Karl Fischer Titrator", "calibration_date": "2025-01-02", "validity_days": 590, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-027", "instrument_type": "ISE Meter", "calibration_date": "2025-01-02", "validity_days": 505, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-028", "instrument_type": "Microplate Reader / LAL", "calibration_date": "2025-01-02", "validity_days": 520, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-029", "instrument_type": "Incubator / Colony Counter", "calibration_date": "2025-01-02", "validity_days": 535, "calibration_status": "CALIBRATED"}
+{"instrument_id": "INST-030", "instrument_type": "Light Obscuration Particle Counter", "calibration_date": "2025-01-02", "validity_days": 550, "calibration_status": "CALIBRATED"}

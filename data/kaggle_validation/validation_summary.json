@@ -1,0 +1,24 @@
+{
+  "dataset_validation_summary": {
+    "dataset": "Kaggle Air Quality Data in India (2015-2020)",
+    "total_records": 29531,
+    "passed_records": 0,
+    "flagged_records": 1423,
+    "needs_review_records": 28108,
+    "missing_metadata_flags": {
+      "missing_calibration_evidence": 28108,
+      "missing_sop_evidence": 28108,
+      "missing_uncertainty": 28108,
+      "missing_aqi_and_bucket": 4681
+    },
+    "hard_defects_detected": {
+      "insufficient_pollutants": 1423,
+      "negative_pollutant_values": 0,
+      "aqi_bucket_contradictions": 0,
+      "extreme_outliers": 0
+    },
+    "curatorkit_integration_status": "PASS",
+    "scientific_memory_status": "PASS",
+    "roundtrip_gatekeeper_status": "PASS"
+  }
+}

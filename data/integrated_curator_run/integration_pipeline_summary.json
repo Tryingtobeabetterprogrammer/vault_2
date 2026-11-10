@@ -1,0 +1,50 @@
+{
+  "pipeline_name": "VAULT-CuratorKIT-Integrated-Pipeline",
+  "input_record_count": 1200,
+  "vault_verification": {
+    "accepted_count": 720,
+    "flagged_count": 228,
+    "needs_review_count": 252,
+    "quarantine_count": 480
+  },
+  "curatorkit_curation": {
+    "input_to_curator": 720,
+    "stage_counts": {
+      "JSONLReader": {
+        "output_count": 720,
+        "rejected_count": 0
+      },
+      "SchemaGate": {
+        "input_count": 720,
+        "output_count": 720,
+        "probe_recovered": 0,
+        "rejected_count": 0
+      },
+      "ExactDeduplicator": {
+        "input_count": 720,
+        "output_count": 720
+      },
+      "MinHashDeduplicator": {
+        "input_count": 720,
+        "output_count": 358
+      },
+      "TextCleaner": {
+        "input_count": 358,
+        "output_count": 358
+      },
+      "MessagesExporter": {
+        "exported_count": 358
+      }
+    },
+    "curator_passed_count": 358,
+    "curator_rejected_count": 0,
+    "wall_clock_seconds": 24.32800000000043
+  },
+  "artifacts": {
+    "trainer_ready_dataset": "C:\\VAULT\\data\\integrated_curator_run\\trainer_ready_export\\sft_messages.jsonl",
+    "quarantine_ledger": "C:\\VAULT\\data\\integrated_curator_run\\quarantine.jsonl",
+    "curator_manifest": "C:\\VAULT\\data\\integrated_curator_run\\trainer_ready_export\\manifest.json",
+    "curator_checksums": "C:\\VAULT\\data\\integrated_curator_run\\trainer_ready_export\\checksums.txt",
+    "curator_dataset_card": "C:\\VAULT\\data\\integrated_curator_run\\trainer_ready_export\\dataset_card.md"
+  }
+}
