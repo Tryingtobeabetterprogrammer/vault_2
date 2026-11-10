@@ -8,3 +8,4 @@ models/
 *.gguf
 *.safetensors
 .pytest_cache/
+data/kaggle_raw/*.csv
